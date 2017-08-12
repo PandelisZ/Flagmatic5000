@@ -196,7 +196,7 @@ func main() {
 	outBanner := image.NewRGBA(image.Rect(0, 0, bX, bY))
 
 	draw.Draw(outBanner, banner.Bounds(), banner, image.Point{0, 0}, draw.Src)
-	draw.Draw(outBanner, banner.Bounds(), expertFlags, image.Point{-550, -300}, draw.Src)
+	draw.Draw(outBanner, banner.Bounds(), expertFlags, image.Point{-550, -300}, draw.Over)
 	png.Encode(expertsBanner, outBanner)
 
 }

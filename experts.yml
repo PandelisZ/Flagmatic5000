@@ -1,6 +1,15 @@
 - github: joenash
   name: Joe Nash
+  shortname: Joe
+  role: Student Programs @ GitHub
+  university: GitHub Education
   city: London
+  pin:
+    longitude: -0.088318
+    latitude: 51.525541
+  about: Joe is the student program manager at GitHub, and works on Campus Experts. If you want to become an Expert, or have questions about GitHub Campus Experts, you can ask Joe .
+  contact: joenash@github.com
+  avatar: https://avatars3.githubusercontent.com/u/1790822?v=3&s=460
 
 - github: wilhelmklopp
   name: Wilhelm Klopp

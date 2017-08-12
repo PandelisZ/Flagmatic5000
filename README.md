@@ -19,13 +19,14 @@ Make sure you have go installed.
 go get github.com/gocarina/gocsv
 go get gopkg.in/yaml.v2
 ```
+**Build it**
 
 ```sh
 go build applyflags.go
 ```
 
-to run
+**Run it**
 
 ```sh
-./applyglags experts.yml
+./applyflags experts.yml
 ```

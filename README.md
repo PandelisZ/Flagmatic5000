@@ -30,3 +30,10 @@ go build applyflags.go
 ```sh
 ./applyflags experts.yml
 ```
+
+
+## Licences / Sources
+
+[simplemaps-worldcities-basic.csv](http://simplemaps.com/data/world-cities) - MIT 
+
+[flags/](http://365icon.com/icon-styles/ethnic/classic2/) - 365icon.com "These are free to use for personal and commercial projects."

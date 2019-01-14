@@ -171,17 +171,24 @@ func main() {
 	fx, fy := getImageDimension(flagImages[0])
 	fmt.Print(fx)
 	cursor := 0
+	yPos := 0
 	maxWidth := 0
 	padding := 10
 	for _, img := range flagImages {
 		maxWidth += img.Bounds().Dx() + padding
 	}
 
-	expertFlags := image.NewRGBA(image.Rect(0, 0, maxWidth, fy))
+	expertFlags := image.NewRGBA(image.Rect(0, 0, maxWidth, fy*2+padding))
 
-	for _, fImg := range flagImages {
-		draw.Draw(expertFlags, expertFlags.Bounds(), fImg, image.Point{-cursor, 0}, draw.Src)
-		cursor = cursor + fImg.Bounds().Dx() + padding
+	for idx, fImg := range flagImages {
+		draw.Draw(expertFlags, expertFlags.Bounds(), fImg, image.Point{-cursor, yPos}, draw.Src)
+		if idx == 10 {
+			cursor = 0
+			yPos = yPos - fImg.Bounds().Dy() - padding
+		} else {
+			cursor = cursor + fImg.Bounds().Dx() + padding
+		}
+
 	}
 
 	toimg, _ := os.Create("expert-flags.png")

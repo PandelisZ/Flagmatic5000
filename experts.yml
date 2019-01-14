@@ -1,0 +1,2055 @@
+- github: joenash
+  name: Joe Nash
+  shortname: Joe
+  role: Student Programs @ GitHub
+  university: GitHub Education
+  city: London
+  pin:
+    longitude: -0.088318
+    latitude: 51.525541
+  about: Joe is the student program manager at GitHub, and works on Campus Experts. If you want to become an Expert, or have questions about GitHub Campus Experts, you can ask Joe .
+  contact: joenash@github.com
+  avatar: https://avatars3.githubusercontent.com/u/1790822?v=3&s=460
+
+- github: beardaway
+  name: Konrad Sopala
+  shortname: Konrad
+  role: Campus Expert
+  university: AGH University of Science and Technology
+  city: Cracow
+  pin:
+    latitude: 50.067969
+    longitude: 19.912700
+  about: Konrad is a Computer Science and Econometrics student at AGH. Talking in iOS, Swift, Python, Data Science and many more! Passionate and constantly improving in developer experience as a whole. Behaviour and thought leader. Always willing to help and talk about devrel and community!
+  contact: konrad.sopala@gmail.com
+  avatar: https://avatars3.githubusercontent.com/beardaway
+  modules_completed: [expert, 0, 1, 2, 3, 16]
+  skills: [iOS, Swift, Python, Data Science, Beacons, Developer Advocacy, Developer Evangelism, Community Management, Leadership,  Project Management, Hackathons]
+
+- github: ebenezergraham
+  name: Ebenezer Graham
+  shortname: Ebenezer
+  role: Campus Expert
+  university: African Leadership University
+  city: Beau Plan
+  pin:
+    latitude: -20.102255
+    longitude: 57.562450
+  about: Kwesi is an inaugural student at African Leadership University,Mauritius. He is a FOSS evanglist and enthusiast. He is a contributor to Apache Fineract CN. Find more about him at his [website](https://ebenezergraham.github.io/)!
+  contact: egraham15@alustudent.com
+  avatar: https://avatars3.githubusercontent.com/u/27242090?s=460&v=4
+  modules_completed: [expert, 0, 1, 2, 4, 5]
+
+- github: lumneh
+  name: Lum-neh Angela
+  shortname: Angy
+  role: Campus Expert
+  university: African Leadership University
+  city: Beau Plan
+  pin:
+    latitude: -20.101991
+    longitude: 57.562407
+  about: Angela is a Computer science student at the African leadership University in Mauritius who is passionate about technology and entrepreneurship. She has experience in data analysis and Machine learning in python and an advocate for Women in STEM.
+  contact: alumneh15@alustudent.com
+  avatar: https://avatars1.githubusercontent.com/u/10239528?s=460&v=4
+  modules_completed: [expert, 0, 1, 2, 4, 5, 6, 7, 8, 9]
+
+- github: wilhelmklopp
+  name: Wilhelm Klopp
+  shortname: Wil
+  role: Senior VP of Umbrella Procurement
+  university: University College London
+  city: London
+  pin:
+    longitude: -0.1342576
+    latitude: 51.5246684
+  about: "Wilhelm currently leads the team that builds [UCL API](https://uclapi.com), an API for student developers. Previously he served as the president of the UCL Technology Society and built the [Simple Poll](https://simplepoll.rocks) slack integration. He likes APIs, emojis, and :partyparrot:"
+  contact: wilhelmklopp@github.com
+  avatar: https://avatars0.githubusercontent.com/u/7718702?v=3&s=460
+
+- github: kim-codes
+  shortname: Kim
+  role: Education Intern
+  university: Concordia University
+  city: Montreal
+  pin:
+    longitude: -73.5672559
+    latitude: 45.5016889
+  about: Kim has a natural need to create, imagine, and build. Ask her about all things experty.
+  contact: kim-codes@github.com
+  avatar: https://avatars0.githubusercontent.com/u/5739370?v=3&s=460
+
+- github: Iphytech
+  name: Ifunanya Ikemma
+  shortname: Iphy
+  role: Campus Expert
+  university: University of Nigeria Nsukka
+  city: Nsukka
+  pin:
+    latitude: 6.864455
+    longitude: 7.408288
+  about: Iphy is a student of Computer Science student at UNN. She is a full stack developer and Artificial Intelligence enthusiast, her passion is to simplify things with technology, growing communities and Volunteering.
+  contact: http://iphytech.me
+  avatar: https://avatars.githubusercontent.com/iphytech
+  modules_completed: [expert, 0, 1, 4, 7, 14]
+
+- github: sage-godspeed
+  name: Njoku Ugochukwu Godson
+  shortname: Godspeed
+  role: Campus Expert
+  university: University of Nigeria Nsukka
+  city: Nsukka
+  pin:
+    latitude: 6.852290
+    longitude: 7.395650
+  about: |
+   Godspeed is an undergrad. studying Economics at the University of Nigeria Nsukka. He loves to call himself a Community Building Contractor just because of how embedded He is in the UNN Tech community and often coordinating a host of activities alongside other community leaders in order to help students jump-start a career in tech.
+   He is also a Tech Enthusiast, an AIESECer and loves motorsports, podcasts, books & the Internet
+    
+  contact: officialnjokz@gmail.com
+  avatar: https://avatars2.githubusercontent.com/u/22007488?s=400&u=b5b45b42a297c2556a289ca17d97bbc44955bec1&v=4
+  modules_completed: [expert, 1, 2, 3, 4, 5, 6]
+  skills: [HTML, CSS, JavaScript, SQL, Git, Project Management, Content Curation]
+
+- github: abdulajet
+  name: Abdulhakim Ajetunmobi
+  shortname: Abdul
+  role: Campus Expert
+  university: City, University of London
+  city: London
+  pin:
+    longitude: -0.1063918
+    latitude: 51.5272742
+  about: Abdul is a Computer Science student at City, University of London. He is a self-proclaimed Apple fanboy and an advocate for emoji everywhere. Most of his time is spent teaching people about the wonders of native mobile applications by running workshops, attending hackathons or sometimes even both. 😱
+  contact: abdulrapidz@live.com
+  avatar: https://avatars1.githubusercontent.com/u/15106299?v=4&s=460
+  modules_completed: [0, 1, 2, 3, 4, 5, 6, 7, 8, 11, 12, 14, 15, expert]
+
+- github: bluehatbrit
+  name: Elliot Blackburn
+  shortname: Elliot
+  role: Fullstack Software Engineer
+  university: Plymouth University, Bristol University, University of West England
+  city: Bristol
+  pin:
+    longitude: -2.5842643
+    latitude: 51.4526195
+  about: Elliot is a Plymouth Uni alumni, now working in Bristol as a Fullstack Engineer @ Gradient. He originally studied Computing & Game Development but has now transitioned into web technologies, specifically Node.js based dev.
+  contact: bluehatbrit@github.com
+  avatar: https://avatars3.githubusercontent.com/u/1068477?v=4&s=460
+  alumni: true
+
+- github: ruxiang05
+  name: Ruxandra Anghel
+  shortname: Ruxi
+  role: Campus Expert
+  university: King's College London
+  city: London
+  pin:
+    longitude: -0.115997
+    latitude: 51.5114864
+  about: Ruxi is a Computer Science student at King's College London, involved with KCL Tech Society, organising hackathons and helping out with workshops and events. She enjoys simple things like food, dogs and monochromes.
+  contact: ruxiang05@gmail.com
+  avatar: https://avatars0.githubusercontent.com/u/14987594?v=3&s=460
+
+- github: CaptainWalters
+  name: Oliver Walters
+  shortname: Oliver
+  role: Campus Expert
+  university: University of Sussex
+  city: Brighton
+  pin:
+    longitude: -0.0894332
+    latitude: 50.8670045
+  about: "Oliver is a 2nd year Computer Science student at the University of Sussex :gb: and founder of the Hackathon Society (HackSussex), you can probably find him in the awesome hat listing his [twitter](https://twitter.com/captainwalters)/[github](https://github.com/CaptainWalters) handle."
+  contact: oliver@captainwalters.io
+  avatar: https://avatars1.githubusercontent.com/u/14040602?v=4&s=460
+  modules_completed: [0, 1, 2, 3, 4, 5, 6, 7, 8, expert]
+
+
+- github: prateekiiest
+  name: Prateek Chanda
+  shortname: prateek
+  role: Campus Expert
+  university: Indian Institute of Engineering Science and Technology, Shibpur
+  city: Howrah, India
+  pin:
+    longitude: 88.263639
+    latitude: 22.595769
+
+  about: Prateek is a 3rd year Computer Science student at the IIEST Shibpur, India and currently the Open Source Head of his community called codeIIEST, you can probably find him at listing his [twitter](https://twitter.com/prateekiiest) or [github](https://github.com/prateekiiest) handle.
+  contact: prateekiiest.github.io
+  avatar: https://avatars2.githubusercontent.com/u/16035442?s=400&u=85e49ff22c912cc01169f6f165067e0630a57b92&v=4
+  modules_completed: [expert, 0, 1, 3, 4, 7]
+
+
+- github: juanpflores
+  shortname: Juan
+  role: Campus Expert
+  university: National Autonomous University of Mexico
+  city: Mexico City
+  pin:
+    longitude: -99.186373
+    latitude: 19.317196
+  about: Juan Pablo is a Computer Engineering student at the National Autonomous University of Mexico (UNAM). He was founder of MXHacks in 2013 and Mexico's Commissioner for Major League Hacking. Today, you might find him doing research in Human Computer Interaction, playing boardgames at night or eating chilaquiles.
+  contact: jp@juanpabloflores.me
+  avatar: https://avatars3.githubusercontent.com/u/6200135?v=4&s=460
+  modules_completed: [0, 1, 2, 3, 4, 5, 6, 7, 8, expert]
+
+- github: teresawithoutah
+  name: Teresa Luz Miller
+  shortname: Teresa
+  role: Campus Expert
+  university: Montclair State University
+  city: Montclair
+  pin:
+    longitude: -74.1976453
+    latitude: 40.8606551
+  about: Teresa is doing cool things when she's trying not to accept the pickle juice.
+  contact: teresawithoutah@gmail.com
+  avatar: https://avatars3.githubusercontent.com/u/13503231?v=4&s=460
+
+- github: RedRoxProjects
+  shortname: Amy
+  role: Campus Expert
+  university: University of Nottingham
+  city: Nottingham, UK
+  pin:
+    longitude: 1.1952
+    latitude: 52.9387
+  about: Amy is a PhD Student from the Mixed Reality Laboratory in the School of Computer Science at The University of Nottingham, UK. Her background is in audio and recording technology, and her current work focuses on gesture sensing and embodied interactions with digital musical instruments, with a specific focus on tailoring technologies for users with complex disabilities. Amy was the lead organiser for the annual Women in Technology Conference for Nottingham (www.inspirewit.com) in 2016 & 2017. Amy is passionate about teaching, learning and sharing technology in all kinds of ways through promoting a friendly open environment for beginners.
+  contact: amy@adickens.co.uk
+  avatar: https://avatars0.githubusercontent.com/u/16512269?v=4&s=460
+
+- github: sprusr
+  name: Scott Street
+  shortname: Scott
+  role: Campus Expert
+  university: Aston University
+  city: Birmingham, UK
+  pin:
+    longitude: -1.887898
+    latitude: 52.486910
+  about: Scott is a hackathon enthusiast and CS student. His favourite things are cycling, retro tech and beer. When he's not studying, he loves writing JavaScript to do crazy things like control coffee mugs, shoot rubber bands and make loud noises.
+  contact: scott@spru.sr
+  avatar: https://avatars0.githubusercontent.com/u/7497084?v=4&s=460
+  modules_completed: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, expert]
+
+- github: svcastaneda
+  name: Saundra Castaneda
+  shortname: Saundra
+  role: Application Engineering intern
+  university: DePaul University
+  city: Chicago
+  pin:
+    longitude: -87.6295604
+    latitude: 41.8780698
+  about: Saundra of the House Castaneda, the First of Her Name, The Undraggable, Queen of the Blue Demons, Khaleesi of the Great Lake Michigan, Protector of the City, Lady Regnant of the Chicago Seventy Seven, Breaker of Snapstreaks and Mother of Dogs
+  contact: svcastaneda@github.com
+  avatar: https://avatars1.githubusercontent.com/u/6743763?v=4&s=460
+  skills: [Ruby, Rails, Git, HTML, Python, Java, JavaScript, CSS]
+
+- github: catherinechung
+  name: Catherine Chung
+  shortname: Catherine
+  role: Campus Expert
+  university: University of Southern California
+  city: Los Angeles, CA
+  pin:
+    longitude: -118.243683
+    latitude: 34.052235
+  about: Catherine plays ultimate frisbee and lives for doggo memes.
+  contact: cathercc@usc.edu
+  avatar: https://avatars3.githubusercontent.com/u/14222119?v=4&u=447500e97076b857b378a0f265d4ec0aaa4c6635&s=400
+
+- github: ani6gup
+  name: Anisha Gupta
+  shortname: Anisha
+  role: Campus Expert
+  university: Arizona State University
+  city: Tempe, AZ
+  pin:
+    longitude: -111.928001
+    latitude: 33.424564
+  about: Anisha loves bringing tech communities together and dabbles in a variety of projects
+  contact: agupt102@asu.edu
+  avatar: https://avatars3.githubusercontent.com/u/5401992?v=4&u=5ac3ee6f68e93fe26e73dc85560f50dcbdc59d7a&s=400
+
+- github: sourabhlal
+  name: Sourabh Lal
+  shortname: Sourabh
+  role: Campus Expert
+  university: EPFL (École polytechnique fédérale de Lausanne)
+  city: Lausanne
+  pin:
+    longitude: 6.561913
+    latitude: 46.518428
+  about: Sourabh is a Computer Science student at EPFL (École polytechnique fédérale de Lausanne) in Switzerland specializing in Information Systems and the founder of LauzHack. He loves travelling to new places, and having participated in alot of hackathons is looking to now establish a culture at his university of participating in hackathons all over the world.
+  contact: sourabh@sourabhs.space
+  avatar: https://avatars3.githubusercontent.com/u/6005301?v=3&s=460
+  modules_completed: [0, 1, 2, 3, 4, 5, 6, 7, 8, expert]
+
+- github: sara-h-chen
+  name: Sara Chen
+  shortname: Sara
+  role: Campus Expert
+  university: Durham University, UK
+  city: Durham, UK
+  pin:
+     longitude: -1.5736302
+     latitude: 54.767964
+  about: Sara organizes tech events for the university's community when she isn't busy brooding in her cave, with industrial rock music playing in the background.
+  contact: sara.h.chen@durham.ac.uk
+  avatar: https://avatars3.githubusercontent.com/u/15038684?v=4&s=460
+
+- github: elliotwhitehead
+  name: Elliot Whitehead
+  shortname: Elliot
+  role: Campus Expert
+  university: University of Colorado, Boulder
+  city: Boulder, CO
+  pin:
+    longitude: -105.2720066
+    latitude: 40.0088267
+  about: Elliot is a web developer and CS student at CU Boulder. When he's not working in the code mines, you'll probably find him on a nearby mountain top or wilderness trail.
+  contact: write@elliot.sh
+  avatar: https://avatars3.githubusercontent.com/u/3988879?v=4&s=460
+
+- github: PeterDaveHello
+  name: Peter
+  shortname: Peter
+  role: Campus Expert
+  university: National Chiao Tung University
+  city: Hsinchu, TW
+  pin:
+    longitude: 120.999645
+    latitude: 24.789071
+  about: Peter is an active free and open source software contributor, a CS student at NCTU and a system admin, who loves music, movie, novel, dramas and the open source philosophy.
+  contact: hsu@peterdavehello.org
+  avatar: https://avatars1.githubusercontent.com/u/3691490?v=4&s=460
+
+- github: djkonro
+  name: Konrad Djimeli
+  shortname: Konrad
+  role: Campus Expert
+  university: University of Buea
+  city: Buea
+  pin:
+    longitude: 9.285903
+    latitude: 4.147451
+  about: Konrad Djimeli is a Computer Science student at the University of Buea, Cameroon. He is a software developer and an organizer within the Silicon Mountain community in Africa. He is an open source developer, evangelist and a GitHub Campus Expert in his community. He also believes you are only as limited as your ambitions.
+  contact: konrad@djimeli.me
+  avatar: https://avatars0.githubusercontent.com/u/8269451?v=4&s=400
+
+- github: mchavana
+  name: Marleni
+  shortname: Marleni
+  role: Campus Expert
+  university: Smith College
+  city: Northampton, MA
+  pin:
+    longitude: -72.6412
+    latitude: 42.3251
+  about: Marleni is a student studying at Smith College and a board member of the organization, Smithies in CS. Marleni is also the Residential life Social Justice and Equity Chair (SJE) and member of the Society of Women Engineers.
+  contact: marlenijchavana@gmail.com
+  avatar: https://avatars1.githubusercontent.com/u/20507256?v=4&u=fd1985b1f9f82aa42e438e033cebae963aa58543&s=400
+
+- github: PandelisZ
+  name: Pandelis Zembashis
+  shortname: Pandelis
+  role: Campus Expert
+  university: Birmingham City University
+  city: Birmingham, UK
+  pin:
+    latitude: 52.4828327
+    longitude: -1.8889517
+  about: >
+    Pandelis is a computer science person studying at Birmingham City University in   while he is originally from  .
+    He enjoys spending the weekends with little to no sleep making what he thinks are [cool hacks](https://devpost.com/pandelis)
+    at hackathons all around the UK and sometimes abroad. During the week while he should be studying he enjoys organising lots
+    of different workshops for his community, the Hackathon and Computing Society at BCU. ([HaCS](https://hacs.tech)).
+  contact: pandelis.zembashis@mail.bcu.ac.uk
+  avatar: https://avatars1.githubusercontent.com/u/8436717
+
+- github: Mehii
+  name: Viktorija Lukosiute
+  shortname: Vik
+  role: Treasurer @ CompSoc
+  university: University of Edinburgh
+  city: Edinburgh
+  pin:
+    latitude: 55.943639
+    longitude: -3.188860
+  about: Vik is a full-time Computer Science student teaching total beginners how to code in her spare time or learning how to salsa and play the piano.  Always happy to help and meet new people, just chat me up, you can find me somewhere in the labs or with the CompSoc bunch!
+  avatar: https://avatars0.githubusercontent.com/u/14186866?v=4&s=460
+
+- github: hackerkid
+  name: Vishnu Ks
+  shortname: Vishnu
+  role: Software Developer
+  university: Indian Institute of Information Technology, Allahabad
+  city: Allahabad
+  pin:
+    latitude: 25.430425
+    longitude: 81.770555
+  about: Vishnu Ks is a full stack software developer at [Zulip](https://zulipchat.com). He started [Hack In The North](https://hackinthenorth.com) student hackathon while in college.
+  avatar: https://avatars2.githubusercontent.com/u/7190633?v=4&s=460
+
+- github: mssubram
+  name: Meghana Subramaniam
+  shortname: Meghana
+  role: Campus Expert
+  university: North Carolina State University
+  city: Raleigh
+  pin:
+    longitude: -78.6821
+    latitude: 35.7847
+  about: Meghana is a Computer Science and Economics student at North Carolina State University.
+  contact: msubram3@ncsu.edu
+  avatar: https://avatars2.githubusercontent.com/u/15706058?v=4&u=5126eaa13064137d09310f7091aaa0dce282a61f&s=400
+
+- github: lionex
+  name: Gwen Lofman
+  shortname: Gwen
+  role: Software Developer @ CISCOR
+  university: Florida State University
+  city: Tallahassee
+  pin:
+    longitude: -84.2985
+    latitude: 30.4419
+  about: Gwen studies [Computational Science](sc.fsu.edu) at Florida State University where she conducts renewable energy research; she also co-directs [HackFSU](hackfsu.com) and runs FSU's [SIGGRAPH](siggraph.org) chapter.
+  contact: Gwen@Lofman.co
+  avatar: https://avatars0.githubusercontent.com/u/14112725?v=4&u=9fdafbab7a8763226a51190dffd90ed2479985b0&s=400
+
+- github: ovflowd
+  name: Claudio Santoro
+  shortname: Claudio
+  role: IoT Researcher
+  university: University of Brasília
+  city: Brasília, Federal District - Brazil
+  pin:
+    longitude: -47.8728198
+    latitude: -15.7631573
+  about: Claudio is a Telecommunications Engineering student at the University of Brasília, also a Research Fellow in the same institution. Actually a Senior Software Engineer at a Startup in Brazil. Claudio loves chocolate, and loves helping people and reading books.
+  contact: claudio.santoro@ieee.org
+  avatar: https://avatars1.githubusercontent.com/u/12037269?v=4&s=460
+  modules_completed: [0, 1, 2, 4, 5, 6, 7, 12, 14, expert]
+  skills: [iot, php, java, groovy, csharp, javascript, technical writting, attending, clojure, webdev, aws, cloud, arduino, networking, telecommunications, rlang, latex, mysql, couchbase, mongo, laravel]
+
+- github: kevchn
+  name: Kevin Chen
+  shortname: Kevin
+  role: Research Fellow at @uiot
+  university: University of Maryland, College Park
+  city: College Park, MD
+  pin:
+    longitude: -76.9426
+    latitude: 38.9869
+  about: Kevin is a [Computer Science and Mathematics student](https://kevchn.com) at the University of Maryland with an interest in deep learning research and algorithmic theory. In his free time, he enjoys teaching, creating short films, and bringing student communities closer together.
+  contact: kev@umd.edu
+  avatar: https://avatars3.githubusercontent.com/u/13123651?v=4&s=460
+
+- github: gcttong
+  name: Gary Tong
+  shortname: Gary
+  role: Campus Expert
+  university: University of Manitoba
+  city: Winnipeg, MB, Canada
+  pin:
+    longitude: -97.1366
+    latitude: 49.8075
+  about: Gary is a computer science student at the University of Manitoba with a previous degree in biology. He likes going to hackathons to meet new friends and is still trying to learn how to write nice code.
+  contact: tongg@myumanitoba.ca
+  avatar: https://avatars0.githubusercontent.com/u/16158440?v=4&s=460
+
+- github: mattburman
+  name: Matt Burman
+  shortname: Matt
+  role: Campus Expert, Founder @HackSheffield
+  university: University of Sheffield
+  city: Sheffield, UK
+  pin:
+    longitude: -1.4817909
+    latitude: 53.3815906
+  about: Matt is a [Computer science student](https://mattburman.com/) at the University of Sheffield. He founded [HackSheffield](https://hack.sheffield.ac.uk/) in his first year to bring Hackathons to Sheffield. You can find him in Sheffield or feeding his wanderlust someplace else 🛫🌎
+  contact: matt@mattburman.com
+  avatar: https://avatars1.githubusercontent.com/u/7336329?v=4&s=460
+
+
+- github: KaiFish
+  name: Kai Barclay
+  shortname: Kai
+  role: Campus Expert, Director of Outreach at Hacklahoma
+  university: University of Oklahoma
+  city: Norman, OK
+  pin:
+    longitude: -97.446676
+    latitude: 35.209205
+  about:   Kai does Linguistics and Computer Science at OU, though calls the state of Pennsylvania home. You can often find them posting animal videos on [facebook](https://www.facebook.com/kaif1sh). Always willing to talk, just send them a message!
+  contact: kai.b.barclay@gmail.com
+  avatar: https://avatars2.githubusercontent.com/u/22852389?s=400&v=4
+  modules_completed: [expert, 0, 1, 10, 3, 4]
+
+- github: ccannon94
+  name: Chris Cannon
+  shortname: Chris
+  role: Campus Expert
+  university: North Carolina A&T State University
+  city: Greensboro, NC
+  pin:
+    longitude: -79.775984
+    latitude: 36.072130
+  about: Chris studies Computer Engineering at NCAT, and is a North Carolina native. Chris leads Aggie Robotics and is involved with ACM's NCAT Chapter and Aggie Autonomous Auto. He enjoys hiking, exploring, reading, and creating within NCAT's great community of students.
+  contact: chris.c.cannon@gmail.com
+  avatar: https://avatars0.githubusercontent.com/u/16315060?s=400&u=706a1d40316ac8e5a93b75d411f434c8c91079cc&v=4
+  modules_completed: [expert, 0, 1, 3, 4, 5, 8, 10, 11]
+
+- github: luisejrobles
+  name: Luis E. Jiménez Robles
+  shortname: Luis
+  role: Campus Expert, Google Certified Educator and Computer Engineer,
+  university: Universidad Autónoma de Baja California
+  city: Tijuana, Baja California, Mexico
+  pin:
+    longitude: -116.965320
+    latitude:  32.53545332
+  about: Luis is a Computer Engineer and it's a Software Developer and Project Manager, DevOps and Data Science enthusiast, always supporting and learning from communities and likes outdoor activies, museums and more.
+  contact: luisejimenezrobles@gmail.com
+  avatar: https://avatars0.githubusercontent.com/u/3373127?v=5
+  modules_completed: [expert, 0, 1, 2, 6 ,8, 10]
+  skills: [Google Cloud, Kubernetes, Docker, HTML, CSS, Typescript, Javascript, Angular, Project Management, git, SCRUM, Technical  Writing, Speaker]
+
+- github: RodolfoFerro
+  name: Rodolfo Ferro
+  shortname: Rod
+  role: Campus Expert, BMath Student and AI Enthusiast. [GuanaHacks](http://guanahacks.com/) co-organizer.
+  university: Universidad de Guanajuato
+  city: Guanajuato
+  pin:
+    longitude: -101.2608264
+    latitude: 21.041348
+  about: Rodolfo is a Math student at [University of Guanajuato](http://www.ugto.mx/), currently working on machine learning stuff with a bit of computer vision. And [bots](https://xkcd.com/1646/) to automate processes... He currently works with open data and tech communities in the Innovation Department of his city, where he also is a youth ambassador. He Co-Founded [Future Lab Mx](https://github.com/futurelabmx/) and is a volunteer of the \#GuanajuatoCrew at [CdeCMx](https://www.clubesdeciencia.mx/). He also co-organizes [GuanaHacks](http://guanahacks.com/).
+  contact: ferro@cimat.mx
+  avatar: https://avatars3.githubusercontent.com/u/8453749?s=460&v=4
+  modules_completed: [expert, 0, 1, 3, 5, 9, 13, 14]
+  skills: [Python, git, Google Cloud APIs, Neural Networks, APIs, Technical Writing, Public Speaking, GitHub Pages, Running Hackathons]
+
+- github: yashovardhanagrawal
+  name: Yashovardhan Agrawal
+  shortname: Yashovardhan
+  role: JavaScript Developer
+  university: LNM Institute of Information Technology
+  city: Jaipur
+  pin:
+    longitude: 75.923523
+    latitude: 26.936346
+  about: Yashovardhan Agrawal is an Engineering student at The LNMIIT Jaipur. He is a Computer Science Enthusiast; was an Android Developer in his High School days, later switched into JavaScript Development (mostly a React Native geek). He runs an open source organisation [Addy](https://github.com/addy-org). He has been a Google Summer of Code & Google Code-in mentor for coala and REDHAT JBossOutreach, organisations where he's an active developer. Besides this, he's a classically trained singer, music programmer & pianist.
+  contact: yashovardhan.agrawal@gmail.com
+  avatar: https://avatars3.githubusercontent.com/u/21066442?s=460&v=4
+  modules_completed: [0, 1, 4, 7, 8, expert]
+
+- github: BelieveC
+  name: Chaitanya Yadav
+  shortname: Chaitanya
+  role: Campus Expert
+  university: Indian Institute of Information Technology, Allahabad
+  city: Allahabad, India
+  pin:
+    longitude: 81.770679
+    latitude: 25.430416
+  about: Chaitanya is a fullstack Rails developer currently studying Information Technology at IIIT Allahabad. He co-founded BitNotes, a platform for sharing examnotes, papers, assignments etc in his freshman year. Currently, He is serving as Overall Coordinator at Aparoksha-Tech Fest of IIIT-Allahabad, Coordinator at software development wing of Technical Club and Vice-Captain of his college Cricket Team.
+  contact: iit2015120@iiita.ac.in
+  avatar: https://avatars1.githubusercontent.com/u/14261624?v=4
+
+- github: ROODAY
+  name: Rudhra Raveendran
+  shortname: Rudy
+  role: Campus Expert
+  university: Boston University
+  city: Boston
+  pin:
+    longitude: -71.107247
+    latitude: 42.350437
+  about: Rudy is a Computer Science/Dance student at Boston University. He's currently the president of MakeBU and an organizer for BU's annual hackathon, BostonHacks. When he's not losing sleep at hackathons with Charles, you can probably find him dancing.
+  contact: rooday@bu.edu
+  avatar: https://i.imgur.com/DN6zaSd.jpg
+  modules_completed: [expert, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+- github: charlesma4
+  name: Charles Ma
+  shortname: Charles
+  role: Campus Expert
+  university: Boston University
+  city: Boston
+  pin:
+    longitude: -71.103582919
+    latitude: 42.349081937
+  about: Charles is a Computer Science/Business student at Boston University. He's currently an organizer for BU's annual hackathon, as well as an EBM of BU's Machine Intelligence Community branch. When he's not losing sleep at hackathons with Rudy, you can probably find him playing ball.
+  contact: cma4@bu.edu
+  avatar: https://avatars2.githubusercontent.com/u/22969108?s=400&u=4cb89907805933e3d6f4c2757ca246ec66de10ed&v=4
+  modules_completed: [expert, 0, 1, 3, 4, 6]
+
+- github: angulostephanie
+  name: Stephanie Angulo
+  shortname: Stephanie
+  role: Campus Expert
+  university: Occidental College
+  city: Los Angeles, CA
+  pin:
+    latitude: 34.127361
+    longitude: -118.210504
+  about: Stephanie is passionate about bringing diversity into tech and gets easily distracted by doggo memes.
+  contact: sangulo@oxy.edu
+  avatar: https://avatars1.githubusercontent.com/u/10282705?v=4
+
+- github: AparaV
+  name: Apara Venkat
+  shortname: Apara
+  role: Campus Expert
+  university: University of Colorado, Boulder
+  city: Boulder, CO
+  pin:
+    latitude: 40.007581
+    longitude: -105.265942
+  about: Apara is a Computer Science and Applied Math student at University of Colorado Boulder. He is curently an organizer at HackCU, Colorado's largest collegiate hackathon. When he's not busy reading the latest research papers, you can find him playing his guitar.
+  contact: apve4733@colorado.edu
+  avatar: https://avatars2.githubusercontent.com/u/16863215?s=460&v=4
+  modules_completed: [expert, 0, 1, 4, 8, 9]
+
+- github: SCOTTLB
+  name: Scott Bean
+  shortname: Scott
+  role: Campus Expert
+  university: Edinburgh Napier University
+  city: Edinburgh
+  pin:
+    latitude: 55.933230
+    longitude: -3.213577
+  about: Scott is a full time Computer Security and Digital Forensics student at ENU, he can be found hacking together various projects in Python or building virtalised labs in VMWare.
+  contact: 40274024@live.napier.ac.uk
+  avatar: https://avatars0.githubusercontent.com/u/17150260?s=460&v=4
+  skills: [Python, Security, VMWare, Virtualization, Networking, Cisco, firewalls, Linux, sysadmin]
+  modules_completed: [expert, 0, 1, 8, 11, 13]
+
+- github: kunall17
+  name: Kunal Gupta
+  shortname: kunall17
+  role: Campus Expert
+  university: Manipal Institute Of Technology
+  city: Manipal
+  pin:
+    latitude: 13.352533
+    longitude: 74.792819
+  about: Kunal is studying IT at MIT, India, who loves to do stuff related to tech, has been tinkering with computer’s since a long time and most of his experience is on developing mobile apps (cross-platform and native) & web server backend development which was gained by contributing to open source organization of his two terms of Google summer of code participant. Check out his latest updates/blogs/tutorials [here](http://kunall17.com)
+  contact: kunall.gupta17@gmail.com
+  avatar: https://avatars0.githubusercontent.com/u/12700799?s=460&v=4
+  modules_completed: [expert, 0, 1, 2, 7, 8, 9, 11, 14]
+
+- github: nathankurt
+  name: Nate Kurt
+  shortname: Nate
+  role: Campus Expert
+  university: Michigan State University
+  city: East Lansing
+  pin:
+    latitude: 42.728147
+    longitude: -84.484863
+  about: >
+    Nate is a Computer Science Major at Michigan State University, and is currently the director of <a href="https://spartahack.com/" target="_blank">SpartaHack</a>.
+    He's a student who loves to lead a team and find cool new technology that people have made. When he's not doing that stuff though, you can probably catch him playing board games, watching movies, or trying to figure out how to smartify his home for as cheap as possible.
+  contact: nate.kurt@gmail.com
+  avatar: https://avatars2.githubusercontent.com/u/9864281?s=460&v=4
+  modules_completed: [expert, 0, 1, 2, 6, 8, 11]
+
+- github: FernandaOchoa
+  name: Fernanda Ochoa
+  shortname: Fer
+  role: Campus Expert
+  university: Instituto Tecnológico de León
+  city: León, Guanajuato, México.
+  pin:
+    longitude: -101.627522
+    latitude: 21.109226
+  about: >
+    Fernanda Ochoa is a Computer System Student and Team Braver's Captain. Founder of Bravers Community at Tecnológico de León.
+    Developer as a conviction and Maker as an accident :D
+  contact: monsh8a@gmail.com
+  avatar: https://avatars2.githubusercontent.com/u/9124597?s=400&v=4
+  modules_completed: [expert, 0, 1, 2, 3, 4, 5, 7, 11, 13]
+
+- github: stdlibdoh
+  name: Wilson Tolentino da Silva
+  shortname: Wilson
+  role: Campus Expert
+  university: Goldsmiths, University of London
+  city: London
+  pin:
+    latitude: 51.474271
+    longitude: -0.035408
+  about: "Wilson is a Computer Science student at Goldsmiths, University of London. He is passionate about Swarm Intelligence, mostly because bugs are cool, and about Security, because broken things are the best things. In his spare time, he loves hate-watching superhero TV shows."
+  contact: wbtsilva@gmail.com
+  avatar: https://avatars1.githubusercontent.com/u/10576738?s=460&v=4
+  modules_completed: [expert, 0, 1, 2, 3, 4, 8]
+
+- github: crablab
+  name: Hugh Wells
+  shortname: Hugh
+  role: Campus Expert
+  university: Royal Holloway, University of London
+  city: Egham
+  pin:
+    latitude: 51.425673
+    longitude: -0.563063
+  about: "Hugh is a Computer Science student at Royal Holloway, UoL. He is a passionate advocate of Open Data and Government accountability and runs [UKGovCamp]('http://ukgovcamp.com'). A serial Hackathon addict he is always up for a game of Werewolf and loves helping get new people into tech, and teaching them new skills and about exciting tools."
+  contact: hugh@crablab.co.uk
+  avatar: https://avatars2.githubusercontent.com/u/5859718?s=460&v=4
+  modules_completed: [expert, 0, 1, 2, 3, 14, 15]
+
+- github: toxtli
+  name: Carlos Toxtli
+  shortname: Tox
+  role: Campus Expert
+  university: West Virginia University
+  city: Morgantown
+  pin:
+    latitude: 39.636140
+    longitude: -79.955936
+  about: "I'm Carlos Toxtli (toxtli on GitHub) a Ph.D. in CS student at West Virginia University, Here I'm part of a HCI (Human Computer Interaction) lab where we create very cool prototypes (hardware & software) and the community is growing :slightly_smiling_face: . I'm interested in several technologies like: AI/ML/DL/RL, Bots, VR/AR/MR, crowdsourcing, gaming with RaspberryPI and I'm a documentaries lover and a snacks addict."
+  contact: carlos.toxtli@maul.wvu.edu
+  avatar: https://avatars2.githubusercontent.com/u/1299233?s=400&v=4
+  modules_completed: [expert, 0, 1, 8, 9, 13, 14]
+
+- github: johnphamous
+  name: John Pham
+  shortname: John
+  role: Campus Expert
+  university: The University of California, Riverside
+  city: Riverside
+  pin:
+    latitude: 33.973706
+    longitude: -117.328064
+  about: "John is an undergraduate student at UC Riverside. His interests are in everything space and web development. Find him at your next hackathon! He is currently the President of the local ACM chapter."
+  contact: jpham035@ucr.edu
+  avatar: https://avatars1.githubusercontent.com/u/16027268?s=460&v=4
+  modules_completed: [expert, 0, 1, 2, 3, 4, 6, 15]
+
+- github: Pancrisp
+  name: Ervin Chua
+  shortname: Ervin
+  role: Campus Expert
+  university: RMIT University
+  city: Melbourne
+  pin:
+    latitude: -37.807763
+    longitude: 144.957972
+  about: "Ervin is a big advocate for Melbourne's student and junior developer community, he enjoys meeting people and bringing them together to create new opportunities. Get in touch for the latest tech gossip down under, you'll learn that we're not just all about property and digging rocks out of the ground."
+  contact: ervin@sparktrail.org
+  avatar: https://avatars0.githubusercontent.com/u/10895910?s=460&v=4
+  modules_completed: [expert, 0, 1, 2, 3, 4, 15]
+
+- github: spejss
+  name: Mikolaj Wawrzyniak
+  shortname: Miki
+  role: Campus Expert
+  university: Fachhochschule Dortmund
+  city: Dortmund
+  pin:
+    longitude: 7.4191332
+    latitude: 51.4938855
+  about: Student, software engineer, hackathon organizer, founder of DO!Hack.
+  contact: twitter @spejsops
+  avatar: https://avatars1.githubusercontent.com/u/6236892?s=460&v=4
+  modules_completed: [expert]
+
+- github: sdaniel55
+  name: Daniel Spindelbauer
+  shortname: Dan
+  role: Campus Expert
+  university: University of Surrey
+  city: Guildford
+  pin:
+    latitude: 51.242184
+    longitude: -0.590542
+  about: Dan is a Computer Science student at the University of Surrey. He is an iOS developer in his free time, President and Founder of [@HackSurrey](https://hacksurrey.uk), where he's doing workshops and organising hackathons.
+  contact: daniel.spindelbauer@gmail.com
+  avatar: https://avatars2.githubusercontent.com/u/4354770?s=460&v=4
+  modules_completed: [expert, 0, 1, 6, 11, 14, 15]
+  skills: [iOS, Swift, Git, Python, IoT, JavaScript, Java, Ruby, Rails, Community Management, Project Management]
+
+- github: kevinfengcu
+  name: Xiaohan Feng
+  shortname: Kevin
+  role: Campus Expert
+  university: the Chinese University of Hong Kong
+  city: Hong Kong (Originally from Shandong, China)
+  pin:
+    latitude: 22.416263
+    longitude: 114.210932
+  about: Xiaohan Feng (nickname Kevin) is an Information Engineering undergraduate student at the Chinese University of Hong Kong, proposed minors including *Computer Science* and *Data Analytics and Informatics*. He is interested in Data mining as well as Information Security. When away from lecture notes, he is also serving as a campus peer counsellor, and reading books about sociology and language.
+  contact: kevin.xhfeng@gmail.com
+  avatar: https://avatars1.githubusercontent.com/u/26052841
+  modules_completed: [expert, 0, 1, 2, 4, 11]
+
+- github: Vertmo
+  name: Basile Pesin
+  shortname: Basile
+  university: Sorbonne Université
+  city: Paris
+  pin:
+    latitude: 48.847104
+    longitude: 2.357499
+  about: Basile is a Computer Science student at Sorbonne Université in Paris, France. He wants to pursue a career in teaching and research, and as such, his primary goal is to make life on campus better by involving student in the software developpements of his university. He also likes to promote free software and especially Linux to anyone he meets.
+  contact: basile.pesin@gmail.com
+  avatar: https://avatars0.githubusercontent.com/u/24356589?s=460&v=4
+  modules_completed: [expert, 0, 1, 4, 7, 8, 9, 11, 15]
+
+- github: isuruAb
+  name: Isuru Abeywardana
+  shortname: Isuru
+  role: Campus Expert
+  university: Sabaragamuwa University of Sri Lanka
+  city: Piliyandala
+  pin:
+    latitude: 6.801803
+    longitude: 79.922684
+  about: Isuru is an Information Systems Undergraduate at Sabaragamuwa University. He is a FOSS Enthusiast, Javascript Developer, Blogger, Web Developer, Teacher and He Loves to help people. He Loves to learn new technologies. [links](https://isuruab.github.io/)!
+  contact: vpisabeywardana@gmail.com
+  avatar: https://avatars0.githubusercontent.com/u/7692626?s=460&v=4
+  modules_completed: [expert, 0, 1, 4, 7, 14]
+
+- github: rishabh-bansal
+  name: Rishabh Bansal
+  shortname: Rishabh
+  role: Campus Expert
+  university: Guru Gobind Singh Indraprastha University
+  city: New Delhi, India
+  pin:
+    latitude: 28.644800
+    longitude: 77.216721
+  about: Rishabh is a Computer Science Engineering Undergraduate at Guru Gobind Singh Indraprastha University from New Delhi, India. He's a student who loves to lead a team and find cool new technology that people have made. When he's not doing that stuff though, you can probably catch him playing video games or watching movies. He is always happy to help and meet new people. He loves to learn new technologies.
+  contact: rishabhbansal1855@gmail.com
+  avatar: https://avatars1.githubusercontent.com/u/25722258?s=400&u
+  modules_completed: [expert, 0, 1, 4, 7, 8, 9, 11]
+
+- github: OtacilioN
+  name: Otacilio Maia
+  shortname: Otacilio
+  role: Campus Expert
+  university: Cesar School
+  city: Recife, Brasil
+  pin:
+    latitude: -8.059827
+    longitude: -34.872371
+  about: I am a Computer Science student at Cesar School, I born in Recife, Brazil and I am passionate about technology but what moves me are people, every technology I build only makes sense if it impacts people's lives
+  contact: contato@otaciliomaia.com
+  avatar: https://avatars1.githubusercontent.com/u/10578275?s=400&u
+  modules_completed: [expert, 0, 1, 3, 5, 7, 15, 16]
+  skills: [chatbots, iot, arduino, robotics, ai, dialogflow, C, C++, electronics, react Native, microcontrollers, python, javascript, git, open source, pitch presentation, community management]
+
+- github: souravinsights
+  name: Sourav Kumar Nanda
+  shortname: souravinsights
+  role: JavaScript Developer
+  university: Gandhi Institute for Technological Advancement
+  city: Bhubaneswar, India
+  pin:
+    latitude: 20.238273
+    longitude: 85.722549
+  about: Sourav is a Computer Science Engineering Undergraduate at Gandhi Instutute for Technological Advancement from Bhubaneswar, India. He's a Frontend & Graphics designer and has been a freelancer since 1 year. He's also a technical writer at [Codeburst.io](https://codeburst.io/@sourav_kumar_nanda). He runs an open tech community called ["Emisha"](http://emisha.netlify.com/).  He is always happy to help and meet new people.
+  contact: souravkumarnanda4@gmail.com
+  avatar: https://avatars3.githubusercontent.com/u/26466468?s=400&u=be2dceeddb9b5005ceb0f276ce0c4259d82fc21e&v=4
+  modules_completed: [expert, 0, 1, 4, 7, 8, 14]
+
+- github: malgamves
+  name: Daniel Phiri
+  shortname: Daniel
+  role: Computer Science Student, Campus Expert
+  university: Parul University
+  city: Vadodara, India
+  pin:
+    latitude: 22.288702
+    longitude: 73.364547
+  about: I'm a Computer Science Student at Parul University. I'm passionate about the positive change code can bring about in peoples lives and is always looking to find that next big technology, besides his almost unhealthy obsession with music.
+  contact: danielphiri.me
+  avatar: https://avatars1.githubusercontent.com/u/25641936?s=400&u=472d8e289fd0cb950e1475ae69514094c7d969d5&v=4
+  modules_completed: [expert, 0, 1, 5, 7, 11, 14, 15, 16]
+  skills: [Technical Writing, Bash, HTML, CSS, GIT, JavaScript, Python]
+
+- github: harshit98
+  name: Harshit Prasad
+  shortname: Harshit
+  role: Campus Expert
+  university: LNM Institute of Information Technology
+  city: Jaipur, India
+  pin:
+    latitude: 26.950895
+    longitude: 75.798990
+  about: Harshit Prasad is an undergraduate student at LNMIIT, Jaipur from the Electronics and Communication Department. He is an Open Source Enthusiast and Full Stack Developer. He is currently exploring the world of Deep Learning. He has been a Google Summer of Code 2017 Intern & Google Code-In Mentor for FOSSASIA open source organization. Apart from being a developer, he enjoys playing badminton and also loves to travel. When forced indoors, he follows a number of sci-fi and fantasy genre movies and television shows and he spend a large amount of my free time exploring the latest technolgy advancements in the world.
+  contact: harshitprasad28@gmail.com
+  avatar: https://avatars2.githubusercontent.com/u/22245418?s=460&v=4
+  modules_completed: [0, 1, 4, 5, 7, expert]
+
+- github: carlogilmar
+  name: Carlo Gilmar
+  shortname: Carlo
+  role: Campus Expert
+  university: IPN UPIICSA
+  city: Mexico City
+  pin:
+    latitude: 19.396363
+    longitude: -99.091976
+  about: Carlo Gilmar is a software developer in Mexico City. He studies the Informatics Engineering in **IPN-UPIICSA**. He loves learn and share new things about software, and loves dance salsa music! Also he is a graphic facilitator! You can read more about it [here](http://carlogilmar.me/)
+  contact: carlogilmar12@gmail.com
+  avatar: https://avatars1.githubusercontent.com/u/17634377?s=460&v=4
+  modules_completed: [expert, 0, 1, 3, 12, 16]
+
+- github: adeen-s
+  name: Adeen Shukla
+  shortname: adeen-s
+  role: Campus Expert and Programmer
+  university: Devi Ahilya Vishwavidyalaya (DAVV)
+  city: Indore, India
+  pin:
+    latitude: 22.751012
+    longitude: 75.895535
+  about: Adeen Shukla is a Web, mobile and desktop applications developer,and an opensource enthusiast. He programs for fun and loves meeting with other people. Read more about Adeen [here](http://adeen.me)
+  contact: adeen@adeen.me
+  avatar: https://avatars1.githubusercontent.com/u/13867300
+  modules_completed: [expert, 0, 1, 2, 4, 5, 7, 10]
+  skills: [android, bash, c, c++, css, git, html, java, javascript, python]
+
+- github: wgcv
+  name: Gustavo Cevallos
+  shortname: Gustavo
+  role: Campus Expert
+  university: Universidad Católica de Santiago de Guayaquil
+  city: Guayaquil
+  pin:
+    latitude: -2.181727
+    longitude: -79.904847
+  about: Gustavo is a student of Computer System Engineer at UCSG. He is a full stack developer and machine learning enthusiast, his passion is to simplify things with technology. When he’s  not studying, he is volunteer firefighters of Guayaquil. Also he love to write on his blog in spanish [links](https://wgcv.me/)
+  contact: wgcv@wgcv.me
+  avatar: https://avatars1.githubusercontent.com/u/8989089
+  modules_completed: [expert, 0, 1, 3, 6, 9]
+
+- github: mirdaki
+  name: Matthew Booe
+  shortname: Matthew
+  role: Campus Expert and Open Source Club Founder
+  university: University of Florida
+  city: Gainesville, FL
+  pin:
+    latitude: 29.643632
+    longitude: -82.35493
+  about: |
+    Matthew is a Computer Engineering student at the University of Florida.
+
+    He is an open source enthusiast and founder of the [Open Source Club](http://ufopensource.club/) (OSC) at UF. The club is dedicated to teaching students about the open source and free software movement and getting them working on open source projects. The OSC is also a founding member of the [Mozilla Open Source Student Network](https://opensource.mozilla.community/).
+
+    When not doing things with the club, Matthew plays Dungeons and Dragons, is obsessed with Star Wars, and does photography, which you can find on his [personal blog](https://codecaptured.com/).
+  contact: nerdboy@ufl.edu
+  avatar: https://avatars3.githubusercontent.com/u/8786151?s=460&v=4
+  modules_completed: [expert, 0, 1, 2, 3, 5, 6, 10, 11, 15, 16]
+  skills: [leadership, technical writing, linux, git, html, css, javascript, typescript, c, c++, c#, java, android]
+
+- github: sukhbir-singh
+  name: Sukhbir Singh
+  shortname: sukhbir
+  role: Campus Expert
+  university: National Institute of Technology Hamirpur
+  city: Hamirpur
+  pin:
+    latitude: 31.7084
+    longitude: 76.5274
+  about: |
+    Sukhbir Singh is a Computer Science student at National Institute of Technology Hamirpur. He is an open source enthusiastic and currently working as Google summer of code student with Amahi. He is a part of three technical clubs in college: AppTeam NITH, Csec and Glug. He is also the organizer of Annual Hackathon - "Hack On Hills". In his spare time, he watches movies and football.
+  contact: sukhbir947@gmail.com
+  avatar: https://avatars3.githubusercontent.com/u/13816752?v=4
+  modules_completed: [expert, 0, 1, 4, 6, 7, 8]
+  skills: [ruby, rails, git, java, react, android, c++]
+
+- github: Ethan-Arrowood
+  name: Ethan Arrowood
+  shortname: Ethan
+  role: Campus Expert
+  university: Wentworth Institute of Technology
+  city: Boston
+  pin:
+    latitude: 42.336276
+    longitude: -71.095348
+  about: |
+    Ethan Arrowood is a student at Wentworth Institute of Technology; he is studying computer science and applied mathematics.
+
+    He contributes to multiple open source projects and is currently working for Microsoft as a software engineering intern.
+
+    At Wentworth he is an organizer for HackWITus and works for Accelerate, Innovation and Entrepreneurship Center as a student coach.
+
+    Connect with him on [Twitter](https://twitter.com/ArrowoodTech) and [Medium](https://medium.com/@ArrowoodTech)
+  contact: ethan.arrowood@gmail.com
+  avatar: https://avatars3.githubusercontent.com/u/16144158?s=460&v=4
+  modules_completed: [expert, 0, 1, 3, 6, 8, 11]
+  skills: [javascript, node.js, react, python, git, c++, java, leadership, event organizing, public speaking, traveling]
+
+- github: lekeOnilude
+  name: Gbemilke Onilude
+  shortname: leke
+  role: Campus Expert
+  university: Ladoke Akintola University of Technology
+  city: Ogbomoso
+  pin:
+    latitude: 8.167688
+    longitude: 4.266911
+  about: |
+    Leke is a student of Ladoke Akintola University of Technology, Ogbomoso Nigeria. He is an android and web developer, he is passionate about learning new things. He belief in Artifical Intelligence and all that it can do.
+  contact: lekeonilude@gmail.com
+  avatar: https://avatars1.githubusercontent.com/u/28812603?s=400&u=6cf4e16772eaab226acbad31eb6d956b89603886&v=4
+  modules_completed: [expert, 0, 1, 2, 4, 8, 11]
+  skills: [java, python, android, javascript, html, css, git, technical writing]
+
+- github: JMGama
+  name: Jose Manuel Gama Estrada
+  shortname: Jose Gama
+  role: Campus Expert
+  university: Universidad Cuauhtémoc Querétaro
+  city: Querétaro, Qro. México
+  pin:
+    latitude: 20.589603
+    longitude: -100.362382
+  about: |
+    My name is Jose Manuel Gama, but you can call me Gama. I am currently studying an engineering in computer
+    systems in the [Universidad Cuauhtémoc](https://www.ucq.edu.mx)
+    in Querétaro, México. :mexico:
+    #### Hobbies
+    In my free time outside of school I like to learn new things and love read books, I spend a lot of time
+    reading :books: ~~(actually my girlfriend gets mad at me because I spend more time reading than with her)~~  my favorite reading topics are:
+    * Science :microscope:
+    * Technology :desktop_computer:
+    * Science fiction. :alien:
+    * Futuristic novels. :rocket:
+
+    Some days I like to go out of the city and practice rock climbing or mountain biking. :mountain_bicyclist:
+  contact: josegamaes@gmail.com
+  avatar: https://avatars3.githubusercontent.com/u/25947269?s=460&v=4
+  modules_completed: [expert, 0, 1, 5, 7, 11, 14]
+  skills: [Python, Java, Git, Django, Technical Writing]
+
+- github: techytushar
+  name: Tushar Mittal
+  shortname: TechyTushar
+  role: Campus Expert
+  university: Kanpur Institute Of Technology
+  city: Kanpur
+  pin:
+    latitude: 26.483576
+    longitude: 80.320669
+  about: |
+    Tushar is a Computer Science undergraduate who loves to make things which solve problems and makes life easier. He is an active Open Source contributor and Google Summer of Code 2018 intern with SPDX. He has a keen interest in everything related to Machine Learning, Blockchain and Robotics. In his free time he loves to watch Sci-Fi movies and listen to EDM music. He is also the co-organizer of the Kanpur Python meetup group.
+  contact: chiragmittal.mittal@gmail.com
+  avatar: https://avatars1.githubusercontent.com/u/26834658?s=460&v=4
+  modules_completed: [expert, 0, 1, 7, 8, 11, 14]
+  skills: [Python, C, JS, Machine Learning, Web Development]
+
+- github: haxzie
+  name: Musthaq Ahamad
+  shortname: Haxzie
+  role: Campus Expert
+  university: Sahyadri College of Engineering and Management
+  city: Mangalore
+  pin:
+    latitude: 12.914142
+    longitude: 74.855957
+  about: |
+    Musthaq Ahamad is a Computer Science and Engineering student from Mangalore, India. He is also the founding member and Community lead of [Sahyadri Open-Source Community](https://sosc.org.in), where he shares his experiences and knowledge through workshops and talks to budding CS undergrads on various technical topics and through his blog [zocada](https://zocada.com). He is a hobbyist Android app developer, Graphic designer and loves to work on NodeJS and Python projects.
+  contact: musthu.gm@gmail.com
+  avatar: https://avatars.githubusercontent.com/haxzie
+  modules_completed: [expert, 0, 1, 2, 3, 4, 11]
+  skills: [Android, NodeJS, Python, Web Development, Graphic Designing]
+
+- github: kennyhong
+  name: Kenny Hong
+  shortname: Kenny
+  role: HCI Graduate Student
+  university: Univeristy of Manitoba
+  city: Winnipeg
+  pin:
+    latitude: 49.807501
+    longitude: -97.136626
+  about: |
+    Kenny Hong is a M. Sc student at the University of Manitoba. He loves to get involved in as many interesting communities as possible.
+    When he's not doing thesis work and the projects that come with it, he can be found singing in a choir called Prairie Voices.
+  contact: hongk@myumanitoba.ca
+  avatar: https://avatars1.githubusercontent.com/u/20191367?s=400&u=8e32723d311b5f96d71e5154c62853542e4e4d38&v=4
+  modules_completed: [expert, 0, 1, 2, 3, 5]
+  skills: [web development, c#, java, research, python, hitting high notes as a bass]
+
+- github: mishuvs
+  name: Vaibhav Shrivastava
+  shortname: Vaibhav
+  role: Campus Expert
+  university: Shri Govindram Seksaria Institute of Technology and Science (SGSITS), Indore
+  city: Indore
+  pin:
+    latitude: 22.7256702
+    longitude: 75.8716153
+  about: |
+    Vaibhav is a 3rd year IT undergrad at SGSITS. He is a passionate Software Developer and loves to build apps, and websites. He is currently working on [Open Event](https://github.com/fossasia/open-event) project with [FOSSASIA](https://fossasia.org) as a Google Summer of Code student.
+
+    SGSITS Robotics Club, Club Ojaswa and SAE Collegiate Club@SGSITS are some college clubs he has been a part of. When he's not wired in, he can be found attending or organizing events of communities like GDG Indore, FDC Indore, Indore Toastmasters, his college clubs, or cool independent events in and out of the city.
+
+    He loves to learn and talk about FOSS and latest technologies, and is always eager to speak or mentor at tech meetups or hackathons.
+  contact: i@vaibhavshrivastava.xyz
+  avatar: https://avatars0.githubusercontent.com/u/35009811?s=400&u=f6c14945eca3e34017b1be0b510a2c34efc57ee1&v=4
+  modules_completed: [expert, 01, 02, 03]
+  skills: [Android Development, Java, mean-stack web development, Kotlin, Python, EmberJS, Bash, C, GitHub, Git]
+
+- github: aaronosher
+  name: Aaron Osher
+  shortname: Aaron
+  role: Campus Expert
+  university: University of Nottingham
+  city: Nottingham, UK
+  pin:
+    latitude: 52.951551
+    longitude: -1.185901
+  about: |
+    Aaron is a Computer Science student and the president of [HackSoc](https://hacksocnotts.co.uk) at the University of Nottingham. He has had a passion for web development since he was nine years old, and loves to share his knowledge and experience to enlighten others.
+
+    In his free time you'll typically find Aaron contributing to open source, attending a Hackathon or tech event, or just trying to build something cool.
+  contact: aaron@hacksocnotts.co.uk
+  avatar: https://avatars1.githubusercontent.com/u/4386583
+  modules_completed: [expert, 0, 1, 2, 4, 14, 16]
+  skills: [JavaScript, React, Angular 2+, git, serverless, Docker, Firebase, GCP]
+
+- github: soumya-ranjan7
+  name: Soumya Ranjan
+  shortname: Soumya
+  role: Campus Expert
+  university: Vellore Institute of Technology
+  city: Vellore, India
+  pin:
+    latitude: 12.969113
+    longitude: 79.157738
+  about: |
+    Soumya Ranjan is a Computer Science undergraduate who is passionate about building things which solves a common problem and makes life easier. He is a full stack developer and an active open source contributor.
+
+    When he is not busy with building something cool or trying to learn something new, you would probably find him watching series, playing games or at the football ground.
+  contact: soumyaranjan2807@gmail.com
+  avatar: https://avatars3.githubusercontent.com/u/25425232
+  modules_completed: [expert, 0, 1, 7, 8, 11, 14]
+  skills: [Python, PHP, C++, git, Javascript, Web development, Machine Learning]
+
+- github: shubhamdhama
+  name: Shubham Dhama
+  shortname: Dhama
+  role: Campus Expert
+  university: Harcourt Butler Technical University
+  city: Kanpur, India
+  pin:
+    latitude: 26.449923
+    longitude: 80.331871
+  about: |
+    Shubham Dhama is a computer science and engineering student at Harcourt
+    Butler Technical University, Kanpur. He has a deep love for open source
+    and have recently completed [Google Summer of Code -
+    2018](https://summerofcode.withgoogle.com/projects/#4969366521643008)
+    program successfully with [Zulip group chat](https://zulipchat.com).
+
+    When it comes to programming language he believes in learning any
+    language and framework to get the job done, still, his obsession for
+    Python, Javascript, and C++ aren't hidden. He is a fairly experienced
+    in web development but he always keeps exploring current and new
+    technologies like Android Development, Web Assembly, etc.
+
+    Other than this he has a keen interest in theoretical computer science
+    and mathematics, and finds solving competitive programming questions in
+    free time most fascinating and exciting.
+
+    He loves talking about geeky topics, so you can find him an interesting
+    person to talks about quantum computing, IoT, AI/ML, AR/VR etc.
+  contact: shubhamdhama12@gmail.com
+  avatar: https://avatars3.githubusercontent.com/u/22238472
+  modules_completed: [expert, 0, 1, 3, 7, 11]
+  skills: [python, javascript, c++, django, html, css, bootstrap, handlebars, jquery, shell, git, github, algorithms, linux]
+
+- github: Pac23
+  name: Manas Mangaonkar
+  shortname: Pac23
+  role: Campus Experts
+  university: Vivekanand Education Society's Institute of Technology,University of Mumbai
+  city: Mumbai
+  pin:
+    latitude: 19.0760
+    longitude: 72.8777
+  about: |
+    Manas is a Computer Engineering Student at the University of Mumbai. He is a Passionate Developer who belives in writing code that helps solve real world problems.
+    In his free time he contributes to open-source projects,you can usually find him active on the fedora devel and kernel mailing lists.
+  contact: manasmangaonkar@gmail.com
+  avatar: https://avatars3.githubusercontent.com/u/11048203
+  modules_completed: [expert, 0, 1, 8, 11, 14]
+  skills: [Python,C,git,Django,Iot,DevOps,Os,Technical-Management]
+
+- github: andrejusk
+  name: Andrejus Kostarevas
+  shortname: Andrejus
+  role: Campus Expert
+  university: University of Reading
+  city: Reading
+  pin:
+    latitude: 51.440953
+    longitude: -0.944890
+  about: |
+    Andrejus is currently a BSc Computer Science student at the University of Reading.
+    He works part-time as a Design & Development Engineer at Think Engineer,
+    where he specialises in cloud architecture for Internet of Things applications.
+    This has led to his dissertation being based in IoT.
+
+    Before coming to University in the UK, Andrejus undertook the
+    International Baccalaureate Diploma Programme in Lithuania, which earnt him a bilingual diploma.
+    Amongst his chosen subjects, he had computer science at higher level and he wrote his
+    extended essay in computer science as well.
+
+    In the little free time he has, Andrejus engages with the local tech community
+    by volunteering as a co-organiser for Google Developer Group Reading & Thames Valley
+    and as well as being the president of the Reading University Hacking society.
+  contact: andrejus@kostarevas.me
+  avatar: https://avatars3.githubusercontent.com/u/7396847
+  modules_completed: [expert, 0, 1, 2, 3, 4, 11]
+  skills: [Google Cloud Platform, TypeScript, Kubernetes, Internet of Things, C, C++, Java]
+
+- github: Anupam-dagar
+  name: Anupam Dagar
+  shortname: Anupam
+  role: Campus Expert
+  university: Indian Institute of Information Technology Allahabad
+  city: Allahabad
+  pin:
+    latitude: 25.430472
+    longitude: 81.771643
+  about: |
+    Anupam is currently a pre final year student at IIIT Allahabad. He is a full stack developer and an open source
+    contributor at Zulip. Other than that he is currently serving as the overall coordinator of the GeekHaven, the technical society of
+    IIIT Allahabad and also a core team member of India's largest student held hackathon "Hack In The North". He is also the general
+    chair of Pragma which is a student design and developer conference.
+
+    He generally codes in Python but you can find him using various stacks.
+  contact: dagaranupam@gmail.com
+  avatar: https://avatars2.githubusercontent.com/u/21174572?s=460&v=4
+  modules_completed: [expert, 0, 1, 5, 7, 14]
+  skills: [Python, JavaScript, C, C++, Django, React, JAVA, bash]
+
+- github: Obsinqsob01
+  name: Luis Contreras Guerra
+  shortname: Contreras
+  role: Campus expert, @eastudy founder and programmer at my school
+  university: UEMSTIS CBTis
+  city: San Felipe, Guanajuato
+  pin:
+    latitude: 21.491827
+    longitude: -101.229461
+  about: |
+    I am a student of programming, I like to play music and sports.
+    I'm in charge of the Fripped community and co-founder of @eastudy :smile:
+
+  contact: luisguerra495@gmail.com
+  avatar: https://avatars3.githubusercontent.com/u/19920165?s=460&v=4
+  modules_completed: [expert, 0, 1, 2, 3, 4, 5]
+  skills: [Go, Python, Javascript, Firebase, C++, git, Vue, React, Angular, Kotlin]
+
+- github: joshvocal
+  name: Josh Vocal
+  shortname: Josh
+  role: Campus Expert
+  university: Simon Fraser University
+  city: Burnaby, BC
+  pin:
+    latitude: 49.277750
+    longitude: -122.909050
+  about: |
+    Josh is a computer science student at Simon Fraser University. He's been to
+    hackathons across Canada from [nwHacks](https://www.nwhacks.io) in Vancouver
+    to [Hack the North](https://hackthenorth.com) in Waterloo.
+
+    When I'm not in front of a computer screen, I'm either skiing down Grouse Moutain,
+    jamming out to some K-pop with my HD 6XXs or playing the piano.
+  contact: jvocal@sfu.ca
+  avatar: https://avatars2.githubusercontent.com/u/9855136?s=460&v=4
+  modules_completed: [expert]
+  skills: [Java, Android, Python, Flask, Amazon Alexa, Arduino, JavaScript, Node.js]
+
+- github: palash25
+  name: Palash Nigam
+  shortname: Palash
+  role: Campus expert, Core Developer & GSoC'18 student under coala
+  university: International Institute of Information Technology
+  city: Bhubaneswar
+  pin:
+    latitude: 20.284420
+    longitude: 85.743620
+  about: |
+    I am an open source developer and a former GSoC student.
+    I am interested in Distributed Systems.
+    I am also a Mozilla Club Captain for my college's Programming Society.
+  contact: npalash25@gmail.com
+  avatar: https://avatars0.githubusercontent.com/u/21367710?s=460&v=4
+  modules_completed: [expert, 0, 1, 3, 5, 7, 10, 14, 15]
+  skills: [Go, Python, Git, Redis]
+
+- github: CloudyPadmal
+  name: Madhushanka Padmal
+  shortname: Padmal
+  role: Campus Expert
+  university: University of Moratuwa
+  city: Moratuwa
+  pin:
+    latitude: 6.840919
+    longitude: 80.003390
+  about: Padmal is cool about electronics the same way he's about coding. He's been a GSoC student in 2017 and 2018 designing and developing PSLab hardware and Android applications.
+  contact: blog.padmal@gmail.com
+  avatar: https://avatars2.githubusercontent.com/u/14261304
+  modules_completed: [expert, 0, 1, 2, 3, 4, 5]
+  skills: [Java, Android, PHP, Python, Django, Arduino, Hardware]
+
+- github: Aaron128l
+  name: Aaron Loken
+  shortname: Aaron
+  role: Campus Expert
+  university: University of Wyoming
+  city: Laramie, WY
+  pin:
+    latitude: 41.312250
+    longitude: -105.580350
+  about: Aaron enjoys the finer things in life such as JavaScript and long walks on the beach. While enrolled at the University of Wyoming for a bachelor’s in computer science, he is also a part of the university’s "Western Thunder" Marching Band performing for many athletic events.
+  contact: aaron@aaron128l.com
+  avatar: https://avatars3.githubusercontent.com/u/12077192
+  modules_completed: [expert, 0, 1, 2, 3, 4, 5]
+  skills: [javascript, node.js, electron, react]
+
+- github: swoldemi
+  name: Simon Woldemichael
+  shortname: Simon
+  role: Campus Expert
+  university: Texas Tech University
+  city: Lubbock, TX
+  pin:
+    longitude: -101.878281
+    latitude: 33.584259
+  about: Simon is a senior Computer Science undergraduate at Texas Tech University. He is also a strong advocate of Study Abroad programs for University students. In his free time, he likes to build on his software engineering skills and help others do the same. Feel free to contact him!
+  contact: simon.woldemichael@ttu.edu
+  avatar: https://avatars2.githubusercontent.com/u/24848380
+  modules_completed: [expert, 0, 1, 2, 3, 4]
+  skills: [Python, PowerShell, Java, HTML, CSS, JavaScript, LaTeX, MongoDB, Firebase, DevOps, AWS]
+
+- github: rjected
+  name: Dan Cline
+  shortname: Dan
+  role: Campus Expert
+  university: University of Massachusetts, Amherst
+  city: Amherst, MA
+  pin:
+    longitude: -72.526711
+    latitude: 42.391155
+  about: Dan is a student at UMass Amherst studying Computer Science and Math. He's an organizer for HackUMass, and is the Chair of UMass ACM. Dan is interested in Distributed Systems, Cryptography, and Distributed Ledger Technologies, and sometimes makes snarky comments about Bitcoin and the like.
+  contact: dan@dancline.net
+  avatar: https://avatars0.githubusercontent.com/u/6798349
+  modules_completed: [expert, 0, 1, 2, 3, 4]
+  skills: [Go, Solidity, JavaScript, TypeScript, Scala, Haskell, C, C++, Elixir, OCaml, leadership, python, git, public speaking]
+
+
+- github: dilum1995
+  name: Dilum Maduranga De Silva
+  shortname: Dilum
+  role: Campus Expert
+  university: Informatics Institute of Technology (IIT)
+  city: Colombo 06
+  pin:
+    latitude: 6.865150
+    longitude: 79.859852
+  about: |
+    Dilum De Silva is an open source enthusiast who studied at Royal College Colombo and currently he is reading a
+    degree in software engineering at Informatics Institute of Technology. He is completing his third year as a trainee
+    associate software engineer at Zone24x7 Inc. And also, He is a GitHub campus expert who’s interested in conducting tech
+    talks in domains such as open-source contribution, IoT Development, Java, Golang, wordpress and mobile application development.
+
+    Dilum has led IEEE Student Branch of IIT as the chairperson for the year 2017/18. He is a campus ambassador for the
+    Tech Seekers Community Sri Lanka and also, he is a member of United Nations task force. Other than that,
+    he has actively volunteered in global events such as IEEE SS12 Asia, WordCamp Colombo, Mozilla Global Sprint 2018 etc.
+
+    Dilum maintains his blog [Learn To Code by Dilum De Silva](http://dilumdesilva-ltc.blogspot.com/) during his leisure time and also
+    he never forgets to play table tennis when he has free time.
+
+  contact: dilumdesilva@ieee.org
+
+  avatar: https://avatars2.githubusercontent.com/u/23298579
+  modules_completed: [expert, 0, 1, 2, 3, 5, 11, 16]
+  skills: [Java, Android, Javascript, Flutter, Python, IOS, Arduino, Ionic, Angular, C#, Git]
+
+
+- github: sakethramanujam
+  name: Saketha Ramanujam S S
+  shortname: Saketh
+  role: Campus Expert
+  university: Gayatri Vidya Parishad College of Engineering(A) (GVPCE)
+  city: Visakhapatnam
+  pin:
+    latitude: 17.820638
+    longitude: 83.343232
+  about: |
+    Saketha Ramanujam is a final year undergrad student in the department of Electronics and Communications Engineering at [Gayatri Vidya Parishad College of Engineering](http://www.gvpce.ac.in)
+    He's an active part of the Artificial Intelligence Club that teaches concepts of machine and deep learning to the students on campus.
+    He's a web developer, and a research intern at the Scientific and Industrial Research Center where he works on applying Data Science techniques for
+    Photonic sensor data.
+  contact: ramanujamsamavedam@hotmail.com
+  avatar: https://avatars2.githubusercontent.com/u/18083969
+  modules_completed: [expert, 0, 1, 5, 11, 16]
+  skills: [HTML, CSS, Javascript, Express, Python, Arduino, Raspi, Git]
+
+
+
+- github: prnvdixit
+  name: Pranav Dixit
+  shortname: Pranav
+  role: Campus expert
+  university: Indian Institute of Technology (ISM), Dhanbad
+  city: Dhanbad
+  pin:
+    latitude: 23.795399
+    longitude: 86.427040
+  about: |
+    Pranav is a Senior year CS undergrad student at IIT (ISM), Dhanbad.
+    He has been a mentor in Google Summer of Code '18 and Google Code In '17
+    for coala. He can be found reading/writing (technical) stuff in his free time.
+  contact: prnvdixit+ce@gmail.com
+  avatar: https://avatars2.githubusercontent.com/u/24798215
+  modules_completed: [expert, 0, 1, 3, 4, 5]
+  skills: [Python, Git, C]
+
+- github: nishchayp
+  name: Nishchay Parashar
+  shortname: Nishchay
+  role: Campus Expert
+  university: Manipal Academy of Higher Education, Manipal
+  city: Manipal
+  pin:
+    latitude: 13.352417
+    longitude: 74.792822
+  about: |
+    Nishchay is a Computer Science and Engineering student at Manipal Institute of Technology, Manipal.
+    He is a student developer managing the tech community at the campus and leading the CS club of the university.
+    He is passionate about working with new technologies and loves to give talks and conduct workshops for fellow students.
+  contact: nishchayparashar98@gmail.com
+  avatar: https://avatars2.githubusercontent.com/u/23032266
+  modules_completed: [expert, 0, 1, 2, 3, 4]
+  skills: [Go, C, C++, Python, Flask, Git, HTML, CSS, JavaScript, SQL, Dialogflow, DevOps, public speaking, community management]
+
+
+
+
+- github: neilchauhan2
+  name: Neil Chauhan
+  shortname: Neil
+  role: Campus Expert
+  university: JAMIA HAMDARD
+  city: New Delhi
+  pin:
+    latitude: 28.513150
+    longitude: 77.250750
+  about: |
+    Neil Chauhan is a Computer Science Undergraduate at Jamia Hamdard, New Delhi, India. He is a Full Stack Web developer and loves creating web apps and websites.
+    He runs an Open Source Community - Opendev (https://opendevx2.pythonanywhere.com) which aims at providing the students an environment where they can learn from their peers.
+    He is also a musician and singer, and loves spending his free time singing songs and playing keyboard.
+  contact: neilchauhan2@gmail.com
+  avatar: https://avatars2.githubusercontent.com/u/31568159?s=400&u=a3d57c9e8472be9cf12bd94cd30e8061aa118732&v=4
+  modules_completed: [expert, 0, 1, 2, 3, 4, 5]
+  skills: [C, C++, HTML, CSS, Javascript, NodeJS, Express, JQuery, React, MongoDB, MySQL, Git]
+
+
+- github: OPARA-PROSPER
+  name: Opara Prosper
+  shortname: Opara Prosper
+  role: Campus Expert
+  university: Federal University of Technology, Owerri
+  city: Owerri
+  pin:
+    latitude: 5.494230
+    longitude: 7.033390
+  about: |
+    Opara Prosper is a full-stack web developer and open source contributor based in Owerri, Nigeria where he is currently pursuing his first degree in Geoinformatics.
+    Despite being a non CS student, he believes changing the world through the use of technology is a collective effort and it takes *passion* to get started.
+    He is the lead organizer for [Open source community africa - imo chapter](https://twitter.com/oscaimo)
+  contact: oparaprosper79@gmail.com
+  avatar: https://avatars0.githubusercontent.com/u/30195980?s=460&v=4
+  modules_completed: [expert, 1, 2, 3, 4]
+  skills: [HTML, CSS, Javascript, React, MySQL, JQuery, PHP, NodeJS, git, technical writing]
+
+- github: RN3r1
+  name: Rodrigo Medina Neri
+  shortname: Rodrigo Medina
+  role: GitHub Campus Expert, Docker Campus Ambassador, Docker Community Leader
+  university: Instituto Tecnológico de Estudios Superiores de Monterrey
+  city: México City
+  pin:
+    latitude: 19.284058
+    longitude: -99.136044
+  about: |
+    Rodrigo is a full stack engineer interested in native mobile and devops. Apart from being GitHub CE, is also Docker Campus Ambassador, and Docker Community Leader in México. He believes that helping others is like helping yourself.
+  contact: rodrigo.medina.neri@gmail.com
+  avatar: https://avatars0.githubusercontent.com/u/13385000?s=400&u=fb0ca3d1bc81dbf57be3ce92ec987343cdfa0030&v=4
+  modules_completed: [expert, 1, 2, 3, 4, 5]
+  skills: [HTML, CSS, Javascript, Node, VueJS, Nuxt, MySQL, MariaDB, Mongo, Kotlin, Docker, Kubernetes]
+
+- github: ankitjain28may
+  name: Ankit Jain
+  shortname: Ankit
+  role: GitHub Campus Expert
+  university: JSS Academy of Technical Education
+  city: Noida
+  pin:
+    latitude: 28.6143624
+    longitude: 77.3589245
+  about: |
+    Ankit is a computer science and engineering student at JSS Academy of Technical Education, Noida. He has recently completed [Google Summer of Code -
+    2018](https://summerofcode.withgoogle.com/projects/#5167774817583104)
+    program successfully with [Drupal](https://drupal.org).
+
+    He is a Full Stack developer, Open Source Contributor and interested in technologies related to Web and made cool stuff with Python. I love experimenting with new technologies.
+  contact: ankitjain28may77@gmail.com
+  avatar: https://avatars0.githubusercontent.com/u/14014254?s=400&u=7ed175998e9e96cd065904dc86e6ea86f4f88a20&v=4
+  modules_completed: [expert, 1, 7, 8, 12, 14]
+  skills: [Java, Python, HTML, CSS, Javascript, MySQL, jQuery, PHP, Laravel, NodeJS, Git, Docker, Drupal]
+
+- github: as8297
+  name: Akash Sharma
+  shortname: Akash
+  role: Campus Expert
+  university: Manav Rachna University
+  city: Faridabad
+  pin:
+    latitude: 28.45026849
+    longitude: 77.28432519
+  about: |
+    Akash is a full stack web developer and also he can do magic with Android apps, If you can explain him your idea well, he'll shape it into a working project in no time.
+    He is currently pursuing Bachelor's of Technology in computer science and engineering at [Manav Rachna University](http://manavrachna.edu.in/university/) .
+
+  contact: TheAkash@live.com
+  avatar: https://avatars2.githubusercontent.com/u/13573353?s=460&v=4
+  modules_completed: [expert, 0, 1, 2, 4, 5, 6, 14, 15, 16]
+  skills: [Android, C++, ruby, rails, MongoDB, MySQL, Firebase, React, Jekyll, Python, java, Arduino, Raspi, Git]
+
+- github: iiqrah
+  name: Iqrah Nadeem
+  shortname: Iqrah
+  role: GitHub Campus Expert
+  university: Manchester Metropolitan University
+  city: Manchester, United Kingdom
+  pin:
+    latitude: 53.489760
+    longitude: -2.272540
+  about: |
+    Iqrah is currently studying her second year of BSc. (Hons) Computer Science at Manchester Metropolitan University. She is extremely excited to start a hackathon society, called helloHackers, and also host the first edition of ManMetHacks in January 2019.
+    She is passionate about attending hackthons and tech workshops, improving and growing the tech community in Manchester, and get as many tech enthusaiasts, irrespective of thier course degree to get involved to learn and build amazing technology.
+    She also aims to destigmatize the term hacker and any false stereotype attached to it.
+
+  contact: nadeem.iqrah@stu.mmu.ac.uk
+  avatar: https://avatars3.githubusercontent.com/u/21157720?s=400&u=aa74b742550823be1d93ffb6341fdac49507e6b0&v=4
+  modules_completed: [expert, 0, 1, 3, 6, 15, 16]
+  skills: [Java, HTML, CSS, JavaScript, MySQL]
+
+- github: withshubh
+  name: Shubhendra Singh Chauhan
+  shortname: Shubhendra
+  role: GitHub Campus Expert
+  university: Jaypee University of Engineering and Technology
+  city: Guna, Madhya Pradesh, India
+  pin:
+    latitude: 24.434887
+    longitude: 77.160674
+  about: |
+    Shubhendra is currently studying his third year of B.Tech in Computer Science Engineering at Jaypee University of Engineering and Technology. He is leading an Open Source technical community and promoting Open Source development since last two years at his campus. He is currently learning AR/VR development using unity and Web technologies are his thing. Mozilla Open Leader & OSS enthusiast.
+
+  contact: withshubh@gmail.com
+  avatar: https://avatars1.githubusercontent.com/u/25361949?s=400&v=4
+  modules_completed: [expert, 0, 1, 2, 3, 4]
+  skills: [C, Java, HTML, CSS, JavaScript, MySQL, PHP, Python, Git, WebVR]
+
+- github: Ty-Won
+  name: Tyrone Wong
+  shortname: Ty
+  role: Github Campus Expert
+  university: McGill University
+  city: Montreal
+  pin:
+    latitude: 45.5048
+    longitude: -73.5772
+  about: |
+    Aspiring Engineer, Software Developer and Tech Enthusiast.
+    Tyrone is currently studying his 3rd year in B.Eng Electrical Engineering | Software Engineering Minor at McGill University.
+  contact: you@email.com
+  avatar: https://avatars3.githubusercontent.com/u/19980222?s=460&v=4
+  modules_completed: [expert, 1, 2, 3, 4, 5, 6]
+  skills: [Python, Javscript, Java, HTML5, CSS3, Git, Arduino, ML]
+
+- github: wesleyhutchinson
+  name: Wesley Hutchinson
+  shortname: Wesley
+  role: Campus Expert
+  university: Lancaster University
+  city: Lancaster
+  pin:
+    latitude: 54.0125477235
+    longitude: -2.7920936333
+  about: |
+    Wesley originally studied Medicine at University College London. He trained and continues to practice as a General Practitioner. Currently his role includes teaching at Lancaster University, whilst completing a PhD in the field of Digital Health. His main focus is health-data modelling and AI within the Primary Care Setting.
+
+    Wesley is also passionate about bringing Academics and Medics closer together and is currently creating a community to solve some of the challenges currently facing healthcare locally.
+
+    When not thinking hard or smashing away on a keyboard, he enjoys time with his family and two Hungarian Vizslas.
+  contact: wesleyjameshutchinson@gmail.com
+  avatar: https://avatars1.githubusercontent.com/u/37110344?v=4&s=460
+  modules_completed: [expert, 0, 1, 2, 3, 4]
+  skills: [java, C#, python, asp.net, javascript, jquery, angular]
+
+- github: abozadev
+  name: August Boza
+  shortname: August
+  role: Campus Expert
+  university: UPC Universitat Politècnica de Catalunya
+  city: Barcelona
+  pin:
+    latitude: 41.389215
+    longitude: 2.113106
+  about: |
+    I’m a computer engineering student from Barcelona. I like to travel around the world while participating in hackathons and photographing cities life.
+
+    I’m interested in education communities like the student hacker community where I learned most of my code skills. What I like most about these communities is the ability to learn by teaching others.
+  contact: abozadev.me
+  avatar: https://avatars3.githubusercontent.com/abozadev
+  modules_completed: [expert, 1, 2, 3, 4, 5, 6]
+  skills: [git, C++, C#, nodejs, teamwork]
+
+- github: seanvictory
+  name: Sean Victory
+  shortname: Sean
+  role: Campus Expert
+  university: University of California, Irvine
+  city: Irvine
+  pin:
+    latitude: 33.645844
+    longitude: -117.842900
+  about: |
+    I'm a Informatics student with a specialization in health! I love going to hackathons and helping out behind the scenes.
+
+    Paragraphs and blocks also supported.
+  contact: you@email.com
+  avatar: https://avatars3.githubusercontent.com/u/....
+  modules_completed: [expert, 0, 1, 2, 3, 4, 5, 6]
+  skills: [python, microsoft visual basic, git, javascript]
+
+- github: harshil1712
+  name: Harshil Agrawal
+  shortname: Harshil
+  role: Campus Expert
+  university: Sardar Vallabhbhai Patel Institute Of Technology, Vasad
+  city: Anand
+  pin:
+    latitude: 22.458280
+    longitude: 73.060570
+  about: |
+    Harshil is a junior web and mobile developer, who encourages others to code. When Harshil is not coding you will find him either playing soccer or watching movies or reading books.
+  contact: https://harshilagrawal.me
+  avatar: https://avatars1.githubusercontent.com/u/18901032?s=400&u=d60f80d01acbf1048daede912cd6eb5324708a1f&v=4
+  modules_completed: [expert, 0, 1, 2, 3, 4, 5, 6]
+  skills: [git, javascript, nodejs, reactjs, vuejs, react native, flutter, java, C, C++]
+
+
+- github: jorfde
+  name: Jorge Fernández
+  shortname: Jorge
+  role: Campus Expert
+  university: Universitat Politècnica de València
+  city: Valencia
+  pin:
+    latitude: 39.481667
+    longitude: -0.343917
+  about: |
+    Sometimes I code
+
+  contact: jorgefernandez.xyz
+  avatar: https://avatars0.githubusercontent.com/u/16243655?s=400&u=dfab992071a16b60cc5201e55cb78bfbad1215ad&v=4
+  modules_completed: [expert, 0, 1, 2, 3, 4, 5, 6]
+  skills: [java, javascript, r, html, css]
+
+- github: nikit19
+  name: Nikit Bhandari
+  shortname: Nikit
+  role: Campus Expert
+  university: Guru Gobind Singh Indraprastha University
+  city: Delhi
+  pin:
+    latitude: 28.595695
+    longitude: 77.018532
+  about: |
+    Nikit is an Android developer who loves working on side projects. He has been a Google Summer of Code 2018 intern & Google Code-In Mentor for FOSSASIA.
+  contact: nikitbhandarii@gmail.com
+  avatar: https://avatars1.githubusercontent.com/u/20878145?v=4
+  modules_completed: [expert, 0, 1, 2, 3, 4, 5, 6]
+  skills: [Android, Kotlin, Java, C++]
+
+- github: SakshamInABox
+  name: Saksham Anand
+  shortname: Saksham
+  role: Campus Expert
+  university: Auckland University of Technology
+  city: Auckland
+  pin:
+    latitude: -36.848461
+    longitude: 174.763336
+  about: Saksham is a Computational Intelligence student at Auckland University of Technology.
+  contact: git@sakshamanand.com
+  avatar: https://avatars3.githubusercontent.com/u/9192815?s=400&u=c2a135be059fcd6f802cd32da56b3f79a7a22322&v=4
+  modules_completed: [expert, 0, 1, 2, 3, 5, 6]
+  skills: [JavaScript, Security, PHP, Java, Xamarin, Analytics, R]
+
+- github: pnbrown
+  name: P. Nigel Brown
+  shortname: nigel
+  role: Campus Expert
+  university: University of California, San Diego
+  city: San Diego, California
+  pin:
+    latitude: 32.881154
+    longitude: -117.235354
+  about: nigel is a Computer Engineering student at the University of California, San Diego.
+  contact: pbrown@ucsd.edu
+  avatar: https://avatars3.githubusercontent.com/u/10396286?s=400&u=fa432791f3f07d1260e7a04fa36bfbbd9f736b39&v=4
+  modules_completed: [expert, 0, 1, 2, 3, 5, 6]
+  skills: [Python, Node.js, C++, Electron]
+
+- github: AliAyub007
+  name: Ali Ayub Khan
+  shortname: Ali
+  role: Campus Expert
+  university: National University of Sciences and Technology (NUST)
+  city: Islamabad, Pakistan
+  pin:
+    latitude: 33.644800
+    longitude: 72.991108
+  about: |
+    Ali Ayub Khan is a bachelor's student of Computer Science at School of Electrical Engineering and Computer Science (SEECS), NUST, Islamabad, Pakistan. He was Google Summer of Code Intern at FOSSASIA for 2017. Mentored Google Code-in and Google Summer of Code in 2017 and 2018 respectively. He is currently a president of a student chapter of an international society named ACM(Association for Computing Machinery) and working as a software developer intern at Neuropsychology lab, University of Oldenburg, Germany.
+
+    He likes data science & android development and firmly believes that right amount of hardwork at right time can change everything. His ultimate passion is project management in the filed of Information Technology.
+  contact: akhan.bscs15seecs@seecs.edu.pk
+  avatar: https://avatars2.githubusercontent.com/u/25840461?s=400&u=fbbb0ba3c93b9460596a3a0eddcfa75997532615&v=4
+  modules_completed: [expert, 1, 2, 3, 4, 5, 6]
+  skills: [Python, Java, git, Android, C++, NodeJs, Google Cloud Platform, Technical Triting, Team work, Time management, Public speaking, Community management, Leadership]
+
+- github: kendhia
+  name: Dhia Kennouche
+  shortname: Dhia
+  role: Campus Expert
+  university: Ege University
+  city: Izmir, Turkey
+  pin:
+    latitude: 38.466570
+    longitude: 27.219720
+  about: |
+    Dhia is an Android Developer and also a student at Ege University, Izmir. Has been coding since a very young age. Worked with different languages and frameworks (C, Java, Kotlin, Python, Ruby, Ruby on Rails, Bootstrap...). \n While learning more about Android Development and Programming languages, currently focusing on digging deep learning about AI, Economics and Philosophy.
+  contact: kendhia@gmail.com | dhia@ilao.co
+  avatar: https://avatars3.githubusercontent.com/u/1285892?s=460&v=4
+  modules_completed: [expert, 0, 1, 2, 3, 4, 5, 6]
+  skills: [Java, Kotlin, Python, Git, Ruby, Ruby on Rails, Presentaion, Leadership, Communication]
+
+- github: NeelShah18
+  name: Neel Shah
+  shortname: neel
+  role: Campus Expert
+  university: Lakehead University
+  city: Thunder Bay, Canada
+  pin:
+    longitude: -89.257332304
+    latitude: 48.418664992
+  about: Neel is a Graduate Student in Lakehead University, working on large scale health analysis in real-time. My core areas of working are Deep learning, Data analysis and NLP. I worked with different programming like python, Java, C and technologies like MongoDB, MySQL, Elasticsearch, Redis, API, Github and Doker. Bdw my playground is at tensorflow and Keras. For mroe detail please look at my personal website [here](https://neelshah18.github.io)!
+  contact: neelknightme@gmail.com
+  modules_completed: [expert, 0, 1, 2, 3, 4, 5, 6, 7]
+  skills: [Python, Java, C, Git, Deep learning, Data analysis, NLP, Real-time systems, MongoDB, Redis, Elasticsearch, Keras, Tensorflow, Presentaion, Leadership, Communication]
+  avatar: https://avatars2.githubusercontent.com/u/18536531?s=460&v=4
+
+- github: bjungbogati
+  name: Binod Jung Bogati
+  shortname: Binod
+  role: Campus Expert
+  university: Tribhuvan University
+  city: Kathmandu, Nepal
+  pin:
+    latitude: 27.6854769
+    longitude: 85.2839128
+  about: |
+    Binod is a data science and open source enthusiast. He is computer science undergrad at Tribhuvan University. Previously, he was a Microsoft Student Partner where he conducted Microsoft events at Asian College of Higher Studies. Currently, he is co-founder of DataSansar and community leader of [R User Group Nepal](https://www.r-nepal.org/).
+
+    Besides that, he enjoys reading books, loves volunteering, public speaking and travelling.
+  contact: https://bjungbogati.com/contact/
+  avatar: https://avatars2.githubusercontent.com/u/8600091?s=460&v=4
+  modules_completed: [expert, 0, 1, 2, 3, 4, 5, 6, 7]
+  skills: [Python, R, JavaScript, Data Analysis, Machine Learning, Technical Writing, Public Speaking]
+
+- github: HalcyonAura
+  name: Cecilia La Place
+  shortname: Cecilia
+  role: Campus Expert
+  university: Arizona State University
+  city: Mesa, Arizona
+  pin:
+    longitude: -111.6797729
+    latitude: 33.307168
+  about: |
+    Cecilia is a life long learner currently finishing her masters in Software Engineering and about to pursue a PhD in Engineering Education, all at Arizona State University's Polytechnic campus.
+
+    If you can't find her coding or frantically finishing her homework, she is busy being the director of Hacker Experience at sunhacks, helping advise her software club, or knitting her friends new scarves.
+  contact: cecilia.laplace@gmail.com
+  modules_completed: [expert, 0, 1, 2, 3, 4, 5, 6, 7]
+  skills: [Python, C++, Java, C, Git, HTML, CSS, PostgreSQL, ReactJS, NodeJS, Computer Vision, MATLAB, Automation, Embedded Systems, Game Design, Leadership, Communication, Public Speaking]
+  avatar: https://avatars1.githubusercontent.com/u/14321058?s=460&v=4
+
+- github: katiew812
+  name: Katie Walker
+  role: Campus Expert
+  university: University of Sheffield
+  city: Sheffield
+  pin:
+    latitude: 53.381601
+    longitude: -1.482088
+  about: |
+    Katie likes making web apps while studying Computer Science at University of Sheffield
+  contact: klwalker2@sheffield.ac.uk
+  avatar: https://avatars1.githubusercontent.com/u/23098589?s=400&u=702b5c279f056f70c81274d530869228c9ad4010&v=4
+  modules_completed: [expert, 0, 1, 2, 3, 4, 5, 6, 7]
+  skills: [Node.js, TypeScript, Haskell, Java, Electron]
+
+- github: mzjp2
+  name: Zain Patel
+  role: Campus Expert
+  university: University of Cambridge
+  city: Cambridge
+  pin:
+    latitude: 52.205338
+    longitude: 0.121817
+  about: |
+    Zain is currently a mathematics undergraduate at Cambridge, with a passion for software engineering and creating things. He's part of the Hackers at Cambridge society and loves attending hackathons!
+  contact: zain.patel06@gmail.com
+  avatar: https://zainp.com/assets/images/profile.jpg
+  modules_completed: [expert, 0, 1, 2, 3, 4, 5, 6, 7]
+  skills: [Python, Go, JavaScript, C++]
+
+- github: dannycho7
+  name: Danny Cho
+  role: Campus Expert
+  university: University of California, Santa Barbara
+  city: Santa Barbara
+  pin:
+    latitude: 16.389580
+    longitude: 120.661751
+  about: |
+    Danny is currently a Computer Science major at UC Santa Barbara. He has worked as a software engineer intern at Facebook, AppFolio, and SmartRG.
+
+    Danny enjoys simplifying hard concepts and motivating others to code. He also is the director of SB Hacks and does research in distributed systems.
+  contact: dannycho7@gmail.com
+  avatar: https://avatars2.githubusercontent.com/u/15878248?s=460&v=4
+  modules_completed: [expert, 0, 1, 2, 3, 4, 5, 6, 7]
+  skills: [Python, C++, C, JavaScript, Ruby, Scala, PHP]
+
+- github: JSavage42
+  name: Jason A. Savage
+  role: Campus Expert
+  university: University of Kansas
+  city: Overland Park
+  pin:
+    latitude: 38.899548
+    longitude: -94.726041
+  about: |
+    Jason is currently a Software Engineer Apprentice at Cerner, Corp. in Kansas City
+
+    He is also the President of the Jayhackers (KU Information Security Club) and a frequent competitor on the cyber defense team.
+  contact: jasavage42@gmail.com
+  avatar: https://avatars1.githubusercontent.com/u/32180237?s=96&v=4
+  modules_completed: [expert, 0, 1, 2, 3, 4, 5, 6, 7]
+  skills: [React, TypeScript, JavaScript, PowerShell, HTML5, CSS3, Java, Bash]
+
+- github: vaibhav015
+  name: Vaibhav Sahu
+  shortname: Vaibhav
+  role: Campus Expert
+  university: ABES Engineering College
+  city: Ghaziabad
+  pin:
+    latitude: 28.628269
+    longitude: 77.452408
+  about: |
+    I am a final year undergraduate and currently pursuing a major in Computer Science and Engineering from ABES Engineering College, Ghaziabad, India. I am deeply interested in Algorithms and occasionally contributing to Open Source software. I am accustomed to working on Linux operating systems. I am a part of my college's premier coding club "Technovation Club", which has always been an awesome learning experience !! Passions of mine include Reading, Travelling, Writing, Chess, learning new things and Eating.. { ofcourse, if I get time apart from Programming and Academics! } I have been working for the past two years as a Web Developer and developed website for inter-college project expo at ABES EC.
+
+  contact: vaibhavsahu015@gmail.com
+  avatar: https://avatars0.githubusercontent.com/u/24727740?s=460&v=4
+  modules_completed: [expert, 0, 1, 2, 3, 4, 5, 6, 7]
+  skills: [Nodejs, MongoDB, Bootstrap, Git, AWS S3, JavaScript, C, C++, HTML5, CSS3, community management]
+
+- github: agrawalarpit14
+  name: Arpit Agrawal
+  role: Campus Expert
+  university: Indian Institute of Technology Dharwad
+  city: Dharwad
+  pin:
+    latitude: 15.5188
+    longitude: 74.9260
+  about: |
+    Arpit is a second year undergrad currently pursuing a major in Computer Science.
+    His interests include Computer Security, Astronomy, Stock Market etc.
+
+  contact: agrawal.arpit14@gmail.com
+  avatar: https://avatars.githubusercontent.com/agrawalarpit14
+  modules_completed: [expert, 0, 1, 2, 3, 4, 5, 6, 7]
+  skills: [C++/C, Python, Ruby, Perl, HTML, CSS, PHP, Django, SQL, JavaScript, Bootstrap, Bash, Git, Computer Networking, Assembly Language, Information Security, Nmap, Metasploit, Digital Marketing, SEO, SEM, LaTeX, Machine Learning, Neural Networks and Deep Learning(Exploring)]
+
+- github: akashdeepb
+  name: Akashdeep Bhagat
+  shortname: Akash
+  role: Campus Expert
+  university: Sahyadri College of Engineering and Management
+  city: Mangalore
+  pin:
+    latitude: 12.866096
+    longitude: 74.925385
+  about: |
+    Akashdeep is a 2nd year Computer Science and Engineering student from Mangalore, India. He is also a Community lead of [Sahyadri Open-Source Community](https://sosc.org.in), where he shares his experiences and knowledge through workshops and talks to budding CS undergrads on various technical topics. He is a cybersecurity enthusiast and part time web developer and loves to learn new stuff.
+  contact: akashdeepb.cs17+gce@sahyadri.edu.in
+  avatar: https://avatars.githubusercontent.com/akashdeepb
+  modules_completed: [expert, 0, 1, 2, 3, 4, 5, 6]
+  skills: [Android, NodeJS, Python, Web Development]
+
+- github: angelapwen
+  name: Angela Wen
+  shortname: Angela
+  role: Campus Expert
+  university: University of Pennsylvania
+  city: Shanghai
+  pin:
+    latitude: 31.218400
+    longitude: 121.434560
+  about: |
+    Angela is a student in the first online cohort of Penn's [Master of Computer and Information Technology program](https://onlinelearning.seas.upenn.edu/mcit/), a degree designed for students without prior formal computer science background. She works in international education in Shanghai, China and is passionate about the intersection of technology and education. She has previously been involved in organizing student-led hackathons and is very excited to contribute to her new online learning community at Penn.
+
+    In her spare time she loves to solo travel, couchsurf (or host couchsurfers), attempt escape rooms, and watch her alma mater's football games (Fight On!).
+  contact: wena@seas.upenn.edu
+  avatar: https://avatars.githubusercontent.com/angelapwen
+  modules_completed: [expert, 1, 2, 3, 4, 5, 6]
+  skills: [C++, Python, HTML/CSS, Boostrap, JavaScript, jQuery, Node.js, Express, Project Management]
+
+- github: Perkles
+  name: Otavio Reis Perkles
+  shortname: Otavio
+  role: Campus Expert
+  university: Redentor University
+  city: Rio de Janeiro
+  pin:
+    latitude: -21.193991
+    longitude: -41.906586
+  about: |
+    Comunity leader at [@CodeRed](http://codered.online/)
+
+    Java Web Dev and Python enthusiastic.
+  contact: otaviocha@gmail.com
+  avatar: https://avatars0.githubusercontent.com/Perkles
+  modules_completed: [expert, 1, 2, 3, 4, 5, 6]
+  skills: [java, python, javaScript, community management, webdev, mysql, django]
+
+- github: Gattalraouf
+  name: Abderraouf GATTAL
+  shortname: Raouf
+  role: Campus Expert
+  university: Ecole nationale Supérieure d'Informatique (ESI)
+  city: Algiers
+  pin:
+    latitude: 36.706080
+    longitude: 3.171979
+  about: |
+    A Software Engineering student, A graphic Designer and an android mobile developer.
+    An active person in dierent Student groups, ambitious, responsible, and smart.
+    
+    
+    Co-Organizer & Design Department Manager at Google Developers Group Algiers 
+    [(GDG Algiers)](https://www.meetup.com/GDG-Algiers/)
+    
+    
+
+  contact: fa_gattal@esi.dz
+  avatar: https://avatars3.githubusercontent.com/Gattalraouf
+  modules_completed: [expert, 0, 1, 2, 3, 4, 11]
+  skills: [Android, java, javascript, C, C#, HTML/CSS, jQuery, Node.js, Reactjs, GCP, SQL, SQLite, Firebase, XML, FXML, JavaFX, Computer Networking, Graphic Design, UI/UX Design, Adobe XD, Adobe Illustrator, Project Management , community management,  git, technical writing, Public Speaking]
+
+- github: manupillai308
+  name: Manu S Pillai
+  shortname: Manu
+  role: Campus Expert
+  university: Guru Gobind Singh Indraprastha University
+  city: New Delhi
+  pin:
+    latitude: 28.672088
+    longitude: 77.110348
+  about: |
+    Manu is a 2nd year undergrad currently pursuing his Btech from Bharati Vidyapeeth's College Of Engineering. He is from Kerala,
+    and loves everything under the sun that has technology bound to it. His interest includes a lot of Machine Learning and Data Science, if he is not doing it, you can find him travelling.
+    More about him [here](https://manuspillai.me/).
+
+    **"If you knew success was certainty, what would you attempt to do?"**
+  contact: manupillai308@gmail.com
+  avatar: https://avatars0.githubusercontent.com/manupillai308
+  modules_completed: [expert, 0, 1, 2, 3, 4, 5, 6]
+  skills: [Machine Learning, python, C/C++, Technical writing, git, flask, Deep Learning, HTML/CSS, Tensorflow, Tensorlayer, Flask, community management, public-specking]
+
+- github: mdunn09045  
+  name: Maria Dunning
+  shortname: Maria
+  role: Campus Expert
+  university: The University of Texas at Dallas
+  city: Richardson
+  pin:
+    latitude: 32.986960
+    longitude: -96.753740
+  about: |
+    Maria is a third year CS student at the University of Texas at Dallas. She frequently spends her weekends at different hackathons, and enjoys 3D printing for fun. She also likes to play D&D with friends and enjoys making T-shirt quilts. You can find her on Twitter [here](https://twitter.com/hackingMaria)!
+  
+  contact: mdunn09045@gmail.com   
+  avatar: https://avatars1.githubusercontent.com/mdunn09045
+  modules_completed: [expert, 1, 2, 3, 4, 5, 6]
+  skills: [Java, C++, 3D Printing, Python]
+  
+- github: jogendra  
+  name: Jogendra Kumar
+  shortname: Jogendra
+  role: Campus Expert
+  university: Indian Institute of Technology (BHU) Varanasi
+  city: Varanasi
+  pin:
+    latitude: 25.2609125
+    longitude: 82.9859092
+  about: |
+    Jogendra is pre-final year student at Indian Institute of Technology (BHU) Varanasi. He is an iOS Developer and an active Open Source contributor, also have experience in developing Android, Web and Windows Apps. Currently, he is focusing on Machine Learning and Blockchain Technology. Apart from Coding, he love coffee, going hackathons, attending conferences, and travelling. You can find him on Twitter [here](https://twitter.com/imjog24)!
+  
+  contact: jogendra.iitbhu@gmail.com   
+  avatar: https://avatars2.githubusercontent.com/jogendra
+  modules_completed: [expert, 1, 2, 3, 4, 5, 6]
+  skills: [Swift, Python, Xcode, Machine/Deep Learning, C/C++, Bash, Web Development, Sketch]
+
+- github: matthewmaribojoc
+  name: Matthew Maribojoc
+  shortname: Matt
+  role: Campus Expert
+  university: University of Pittsburgh
+  city: Pittsburgh
+  pin:
+    latitude: 40.444351
+    longitude: -79.960838
+  about: |
+    I am a computer science major at the University of Pittsburgh who just loves to make neat projects. Currently, I'm working on creating [Drive2Site.com](http://drive2site.com). 
+    Check me out on [Medium](https://medium.com/@mattmaribojoc)
+  contact: matthewmaribojoc@gmail.com
+  avatar: https://avatars0.githubusercontent.com/matthewmaribojoc
+  modules_completed: [expert, 0, 1, 2, 3, 4, 5, 6]
+  skills: [Frontend Web Dev, VueJS, SaaS, Node, MEAN Stack, React, Community Outreach, Entrepreneurship]
